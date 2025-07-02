@@ -1,0 +1,2061 @@
+concept_id,concept_code,domain_id,vocabulary_id,concept_class_id,standard_concept
+45409157,27184,Drug,Multum,Multum,
+45409216,28661,Drug,Multum,Multum,
+45411465,23212,Drug,Multum,Multum,
+45416369,25171,Drug,Multum,Multum,
+45410413,27551,Drug,Multum,Multum,
+45415151,25180,Drug,Multum,Multum,
+45409180,27801,Drug,Multum,Multum,
+45410456,28597,Drug,Multum,Multum,
+45411577,26231,Drug,Multum,Multum,
+35806261,26217,Regimen,HemOnc,Regimen,S
+905704,58219,Regimen,HemOnc,Regimen,S
+35975281,27772,Measurement,JAX,Variant,
+36017778,28468,Measurement,JAX,Variant,
+36718932,25155,Measurement,ClinVar,Variant,
+36017785,28473,Measurement,JAX,Variant,
+36013290,28404,Measurement,JAX,Variant,
+36014002,28421,Measurement,JAX,Variant,
+36718903,22769,Measurement,ClinVar,Variant,
+35975421,22770,Measurement,JAX,Variant,
+35965941,27796,Measurement,JAX,Variant,
+35974458,25161,Measurement,JAX,Variant,
+35976537,28128,Measurement,JAX,Variant,
+36016064,25211,Measurement,JAX,Variant,
+36718990,28641,Measurement,ClinVar,Variant,
+36767820,24121,Measurement,ClinVar,Variant,
+36014664,22754,Measurement,JAX,Variant,
+35967250,25158,Measurement,JAX,Variant,
+35969939,28129,Measurement,ClinVar,Variant,
+35811664,22662,Observation,UK Biobank,Question,
+35811642,22615,Observation,UK Biobank,Question,S
+35811545,22147,Observation,UK Biobank,Question,
+35812170,25200,Measurement,UK Biobank,Variable,
+35811454,21611,Observation,UK Biobank,Variable,
+35813618,27210,Measurement,UK Biobank,Variable,
+35811668,22671,Measurement,UK Biobank,Variable,
+35811802,23201,Measurement,UK Biobank,Variable,
+35812191,25221,Measurement,UK Biobank,Variable,
+35812127,25157,Measurement,UK Biobank,Variable,
+35812207,25237,Measurement,UK Biobank,Variable,
+35813939,27531,Measurement,UK Biobank,Variable,
+35813913,27505,Measurement,UK Biobank,Variable,
+35812092,25122,Measurement,UK Biobank,Variable,
+35812164,25194,Measurement,UK Biobank,Variable,
+35814173,27765,Measurement,UK Biobank,Variable,
+41970944,62607,Geography,OSM,4th level,S
+41960974,62596,Geography,OSM,6th level,S
+41960485,62594,Geography,OSM,6th level,S
+41961007,62661,Geography,OSM,6th level,S
+41960700,62569,Geography,OSM,6th level,S
+41960795,62655,Geography,OSM,6th level,S
+41960448,62654,Geography,OSM,6th level,S
+41960858,62575,Geography,OSM,6th level,S
+41960459,62532,Geography,OSM,6th level,S
+41970968,62647,Geography,OSM,6th level,S
+41970958,62573,Geography,OSM,6th level,S
+41961069,62519,Geography,OSM,6th level,S
+41960586,62652,Geography,OSM,6th level,S
+41960754,62742,Geography,OSM,6th level,S
+41960682,62472,Geography,OSM,6th level,S
+41960796,62620,Geography,OSM,6th level,S
+41960524,62427,Geography,OSM,6th level,S
+41960512,62456,Geography,OSM,6th level,S
+41999099,44968,Geography,OSM,8th level,S
+42005275,45132,Geography,OSM,8th level,S
+41953851,58185,Geography,OSM,8th level,S
+41943053,63219,Geography,OSM,8th level,S
+41931676,22588,Geography,OSM,8th level,S
+41936409,27529,Geography,OSM,8th level,S
+41998995,44971,Geography,OSM,8th level,S
+42003570,44976,Geography,OSM,8th level,S
+42003982,44148,Geography,OSM,8th level,S
+41890474,58252,Geography,OSM,8th level,S
+41997349,44965,Geography,OSM,8th level,S
+42005250,44953,Geography,OSM,8th level,S
+41961774,58166,Geography,OSM,8th level,S
+41941594,58173,Geography,OSM,8th level,S
+912162,58170,Condition,HemOnc,Condition,
+2000057753,28572,Drug,STANFORD_SHC_DRUG,Undefined,
+41992263,63247,Geography,OSM,10th level,S
+35806023,24142,Drug,HemOnc,Brand Name,
+35101487,47441,Drug,HemOnc,Brand Name,
+35806652,33525,Drug,HemOnc,Brand Name,
+903893,28144,Drug,RxNorm,Ingredient,S
+43247520,25169,Drug,BDPM,Ingredient,
+43251304,25181,Drug,BDPM,Ingredient,
+43251271,63229,Drug,BDPM,Ingredient,
+43243907,62668,Drug,BDPM,Ingredient,
+44601184,28169,Drug,DPD,Drug Product,
+912163,58229,Drug,HemOnc,Component Class,C
+35807257,45133,Drug,HemOnc,Component Class,C
+35959078,24113,Measurement,OMOP Genomic,Genetic Variation,S
+35956074,25153,Measurement,OMOP Genomic,Genetic Variation,S
+35957888,27563,Measurement,OMOP Genomic,Genetic Variation,S
+35949454,23181,Measurement,OMOP Genomic,Genetic Variation,S
+35945365,28650,Measurement,OMOP Genomic,Genetic Variation,S
+35951078,28532,Measurement,OMOP Genomic,Genetic Variation,S
+35945724,28558,Measurement,OMOP Genomic,Genetic Variation,S
+35957535,28528,Measurement,OMOP Genomic,Genetic Variation,S
+35957359,28633,Measurement,OMOP Genomic,Genetic Variation,S
+35952139,23187,Measurement,OMOP Genomic,Genetic Variation,S
+35959054,25176,Measurement,OMOP Genomic,Genetic Variation,S
+35962064,28550,Measurement,OMOP Genomic,Genetic Variation,S
+35955819,27263,Measurement,OMOP Genomic,Genetic Variation,S
+35948593,25165,Measurement,OMOP Genomic,Genetic Variation,S
+35959019,28567,Measurement,OMOP Genomic,Genetic Variation,S
+35958143,28538,Measurement,OMOP Genomic,Genetic Variation,S
+35953937,28480,Measurement,OMOP Genomic,Genetic Variation,S
+35951259,28467,Measurement,OMOP Genomic,Genetic Variation,S
+35955891,24123,Measurement,OMOP Genomic,Genetic Variation,S
+35947436,28514,Measurement,OMOP Genomic,Genetic Variation,S
+35955197,28417,Measurement,OMOP Genomic,Genetic Variation,S
+35950138,28632,Measurement,OMOP Genomic,Genetic Variation,S
+35949760,19262,Measurement,OMOP Genomic,Genetic Variation,S
+43228461,26259,Drug,BDPM,Ingredient,
+43232303,25222,Drug,BDPM,Ingredient,
+45413850,23204,Drug,Multum,Multum,
+45410235,23209,Drug,Multum,Multum,
+45412929,28611,Drug,Multum,Multum,
+45410448,28469,Drug,Multum,Multum,
+45414102,27847,Drug,Multum,Multum,
+45417760,28595,Drug,Multum,Multum,
+45415273,27512,Drug,Multum,Multum,
+45417731,27787,Drug,Multum,Multum,
+45414132,28502,Drug,Multum,Multum,
+45411531,25174,Drug,Multum,Multum,
+45415318,28617,Drug,Multum,Multum,
+45412747,25172,Drug,Multum,Multum,
+45412918,28423,Drug,Multum,Multum,
+35805730,21033,Regimen,HemOnc,Regimen,S
+35101482,47454,Regimen,HemOnc,Regimen,S
+36767836,23198,Measurement,ClinVar,Variant,
+36767907,21625,Measurement,ClinVar,Variant,
+35975801,27543,Measurement,JAX,Variant,
+35975289,27072,Measurement,JAX,Variant,
+35966469,28672,Measurement,JAX,Variant,
+35975806,27544,Measurement,JAX,Variant,
+36751862,28586,Measurement,JAX,Variant,
+35975881,23134,Measurement,JAX,Variant,
+36719199,28532,Measurement,ClinVar,Variant,
+36730759,28166,Measurement,JAX,Variant,
+36767821,24122,Measurement,ClinVar,Variant,
+35974434,27527,Measurement,JAX,Variant,
+35975248,27210,Measurement,JAX,Variant,
+35811640,22613,Observation,UK Biobank,Question,S
+35811665,22663,Observation,UK Biobank,Question,
+35813655,27247,Measurement,UK Biobank,Variable,
+35813973,27565,Measurement,UK Biobank,Variable,
+35813930,27522,Measurement,UK Biobank,Variable,
+35811821,23219,Measurement,UK Biobank,Variable,
+35813952,27544,Measurement,UK Biobank,Variable,
+35813912,27504,Measurement,UK Biobank,Variable,
+35813651,27243,Measurement,UK Biobank,Variable,
+35811681,22684,Observation,UK Biobank,Variable,S
+35812132,25162,Measurement,UK Biobank,Variable,
+35811805,23204,Measurement,UK Biobank,Variable,
+35811791,23121,Measurement,UK Biobank,Variable,
+35814178,27770,Measurement,UK Biobank,Variable,
+41970938,62771,Geography,OSM,4th level,S
+41960750,62750,Geography,OSM,6th level,S
+41960808,62715,Geography,OSM,6th level,S
+41960817,62388,Geography,OSM,6th level,S
+41960708,62704,Geography,OSM,6th level,S
+41961041,62720,Geography,OSM,6th level,S
+41960602,62730,Geography,OSM,6th level,S
+41961075,62478,Geography,OSM,6th level,S
+41960883,62600,Geography,OSM,6th level,S
+41961043,62690,Geography,OSM,6th level,S
+41960880,62563,Geography,OSM,6th level,S
+41961017,62443,Geography,OSM,6th level,S
+41961054,62424,Geography,OSM,6th level,S
+41961065,62554,Geography,OSM,6th level,S
+41970954,62505,Geography,OSM,6th level,S
+42002769,44967,Geography,OSM,8th level,S
+41942415,62753,Geography,OSM,8th level,S
+41996966,45122,Geography,OSM,8th level,S
+42001962,44959,Geography,OSM,8th level,S
+905621,27223,Drug,HemOnc,Component,
+35806027,24146,Drug,HemOnc,Brand Name,
+19058896,47622,Drug,RxNorm,Ingredient,S
+988095,62427,Drug,RxNorm,Ingredient,S
+43236232,62546,Drug,BDPM,Ingredient,
+1588000,22656,Drug,RxNorm,Ingredient,S
+19088079,62400,Drug,RxNorm,Ingredient,S
+19065032,25231,Drug,RxNorm,Ingredient,S
+44677261,27545,Drug,DPD,Drug Product,
+35956028,23204,Measurement,OMOP Genomic,Genetic Variation,S
+35951352,28667,Measurement,OMOP Genomic,Genetic Variation,S
+35963639,28482,Measurement,OMOP Genomic,Genetic Variation,S
+35947767,28674,Measurement,OMOP Genomic,Genetic Variation,S
+35958577,28402,Measurement,OMOP Genomic,Genetic Variation,S
+35963746,28419,Measurement,OMOP Genomic,Genetic Variation,S
+35962012,23151,Measurement,OMOP Genomic,Genetic Variation,S
+35958425,23216,Measurement,OMOP Genomic,Genetic Variation,S
+35950466,28472,Measurement,OMOP Genomic,Genetic Variation,S
+35956756,25229,Measurement,OMOP Genomic,Genetic Variation,S
+35960788,26212,Measurement,OMOP Genomic,Genetic Variation,S
+35954648,28424,Measurement,OMOP Genomic,Genetic Variation,S
+35957417,28448,Measurement,OMOP Genomic,Genetic Variation,S
+35952435,28433,Measurement,OMOP Genomic,Genetic Variation,S
+35958306,28651,Measurement,OMOP Genomic,Genetic Variation,S
+35962003,26256,Measurement,OMOP Genomic,Genetic Variation,S
+35950179,28422,Measurement,OMOP Genomic,Genetic Variation,S
+35947125,25128,Measurement,OMOP Genomic,Genetic Variation,S
+35955342,28434,Measurement,OMOP Genomic,Genetic Variation,S
+35947058,28487,Measurement,OMOP Genomic,Genetic Variation,S
+35947095,23143,Measurement,OMOP Genomic,Genetic Variation,S
+35946841,26259,Measurement,OMOP Genomic,Genetic Variation,S
+40021012,62850,Drug,RxNorm,Dose Form,
+43224571,47615,Drug,BDPM,Ingredient,
+43232140,28165,Drug,BDPM,Ingredient,
+45411701,28121,Drug,Multum,Multum,
+45415289,27843,Drug,Multum,Multum,
+45412867,27352,Drug,Multum,Multum,
+45410423,27789,Drug,Multum,Multum,
+45409217,28674,Drug,Multum,Multum,
+45416300,22756,Drug,Multum,Multum,
+45408973,22656,Drug,Multum,Multum,
+45409198,28127,Drug,Multum,Multum,
+45414134,28537,Drug,Multum,Multum,
+45409208,28503,Drug,Multum,Multum,
+45413831,22657,Drug,Multum,Multum,
+45409092,26220,Drug,Multum,Multum,
+1524915,28404,Regimen,HemOnc,Regimen,S
+35806260,26216,Regimen,HemOnc,Regimen,S
+35806354,28123,Regimen,HemOnc,Regimen,S
+35806265,26243,Regimen,HemOnc,Regimen,S
+35975772,27537,Measurement,JAX,Variant,
+35966404,23209,Measurement,JAX,Variant,
+36719720,28168,Measurement,ClinVar,Variant,
+36017601,27779,Measurement,JAX,Variant,
+36719491,28128,Measurement,ClinVar,Variant,
+35975883,33570,Measurement,JAX,Variant,
+36718902,22773,Measurement,ClinVar,Variant,
+35971528,27553,Measurement,ClinVar,Variant,
+36718991,28655,Measurement,ClinVar,Variant,
+36017819,28487,Measurement,JAX,Variant,
+35970047,58287,Measurement,ClinVar,Variant,
+35976850,28661,Measurement,JAX,Variant,
+36017823,28491,Measurement,JAX,Variant,
+35964510,26238,Measurement,JAX,Variant,
+36719501,28155,Measurement,ClinVar,Variant,
+36719837,28567,Measurement,ClinVar,Variant,
+35966747,25133,Measurement,JAX,Variant,
+35972615,27353,Measurement,ClinVar,Variant,
+36719932,27074,Measurement,ClinVar,Variant,
+35967772,25183,Measurement,JAX,Variant,
+36725030,27642,Measurement,JAX,Variant,
+36719878,27549,Measurement,ClinVar,Variant,
+36015337,28433,Measurement,JAX,Variant,
+35969988,27761,Measurement,ClinVar,Variant,
+35974412,28638,Measurement,JAX,Variant,
+35970035,58220,Measurement,ClinVar,Variant,
+35812183,25213,Measurement,UK Biobank,Variable,
+35812209,25239,Measurement,UK Biobank,Variable,
+35813956,27548,Measurement,UK Biobank,Variable,
+35813942,27534,Measurement,UK Biobank,Variable,
+35813645,27237,Measurement,UK Biobank,Variable,
+35812139,25169,Measurement,UK Biobank,Variable,
+35812150,25180,Measurement,UK Biobank,Variable,
+35811458,21625,Observation,UK Biobank,Variable,
+35812189,25219,Measurement,UK Biobank,Variable,
+35813592,27184,Measurement,UK Biobank,Variable,
+35814044,27636,Measurement,UK Biobank,Variable,
+35812146,25176,Measurement,UK Biobank,Variable,
+35812177,25207,Measurement,UK Biobank,Variable,
+35813920,27512,Measurement,UK Biobank,Variable,
+41970935,62718,Geography,OSM,4th level,S
+41970936,62782,Geography,OSM,4th level,S
+41960878,62740,Geography,OSM,6th level,S
+41960739,62468,Geography,OSM,6th level,S
+41960567,62394,Geography,OSM,6th level,S
+41960984,62629,Geography,OSM,6th level,S
+41961053,62495,Geography,OSM,6th level,S
+41960470,62634,Geography,OSM,6th level,S
+41960980,62631,Geography,OSM,6th level,S
+41960694,62608,Geography,OSM,6th level,S
+41960657,62604,Geography,OSM,6th level,S
+41961030,62473,Geography,OSM,6th level,S
+41960761,62614,Geography,OSM,6th level,S
+41960645,62442,Geography,OSM,6th level,S
+41960722,62448,Geography,OSM,6th level,S
+41961073,62418,Geography,OSM,6th level,S
+41960714,62500,Geography,OSM,6th level,S
+41960884,62462,Geography,OSM,6th level,S
+41960785,62572,Geography,OSM,6th level,S
+41960736,62692,Geography,OSM,6th level,S
+42005976,45131,Geography,OSM,8th level,S
+42022075,47439,Geography,OSM,8th level,S
+41964352,58206,Geography,OSM,8th level,S
+41890300,58254,Geography,OSM,8th level,S
+41983252,22146,Geography,OSM,9th level,S
+2000057109,23216,Drug,STANFORD_SHC_DRUG,Undefined,
+2000056556,22698,Drug,STANFORD_SHC_DRUG,Undefined,
+2000020100,22709,Drug,STANFORD_LPCH_DRUG,Undefined,
+2000020155,27804,Drug,STANFORD_LPCH_DRUG,Undefined,
+41990620,28426,Geography,OSM,10th level,S
+19063336,49527,Drug,RxNorm,Brand Name,
+19100825,26241,Drug,RxNorm,Brand Name,
+19003012,27505,Drug,RxNorm,Brand Name,
+44555034,22780,Drug,DPD,Drug Product,
+44676719,62812,Drug,DPD,Drug Product,
+35807198,44956,Drug,HemOnc,Component Class,C
+912087,22790,Drug,HemOnc,Component Class,C
+35948492,28145,Measurement,OMOP Genomic,Genetic Variation,S
+35959405,27723,Measurement,OMOP Genomic,Genetic Variation,S
+35945789,28483,Measurement,OMOP Genomic,Genetic Variation,S
+35949519,19263,Measurement,OMOP Genomic,Genetic Variation,S
+35946522,25160,Measurement,OMOP Genomic,Genetic Variation,S
+35951176,27845,Measurement,OMOP Genomic,Genetic Variation,S
+35960580,25224,Measurement,OMOP Genomic,Genetic Variation,S
+35960609,28321,Measurement,OMOP Genomic,Genetic Variation,S
+35948096,21037,Measurement,OMOP Genomic,Genetic Variation,S
+35948272,25171,Measurement,OMOP Genomic,Genetic Variation,S
+35957340,28571,Measurement,OMOP Genomic,Genetic Variation,S
+35952881,28423,Measurement,OMOP Genomic,Genetic Variation,S
+35950547,28638,Measurement,OMOP Genomic,Genetic Variation,S
+35954603,28503,Measurement,OMOP Genomic,Genetic Variation,S
+35950761,28529,Measurement,OMOP Genomic,Genetic Variation,S
+35947757,27806,Measurement,OMOP Genomic,Genetic Variation,S
+35944925,25222,Measurement,OMOP Genomic,Genetic Variation,S
+35956807,28589,Measurement,OMOP Genomic,Genetic Variation,S
+35956619,23192,Measurement,OMOP Genomic,Genetic Variation,S
+35947411,28617,Measurement,OMOP Genomic,Genetic Variation,S
+35950406,26233,Measurement,OMOP Genomic,Genetic Variation,S
+35955229,28159,Measurement,OMOP Genomic,Genetic Variation,S
+35946185,28594,Measurement,OMOP Genomic,Genetic Variation,S
+35948446,23198,Measurement,OMOP Genomic,Genetic Variation,S
+19064633,25183,Drug,RxNorm,Brand Name,
+45409177,27639,Drug,Multum,Multum,
+45409205,28458,Drug,Multum,Multum,
+45412900,27800,Drug,Multum,Multum,
+45409214,28649,Drug,Multum,Multum,
+45411446,22654,Drug,Multum,Multum,
+45411666,27528,Drug,Multum,Multum,
+45411438,22209,Drug,Multum,Multum,
+45410428,27839,Drug,Multum,Multum,
+45410299,25183,Drug,Multum,Multum,
+45413925,25181,Drug,Multum,Multum,
+45415313,28504,Drug,Multum,Multum,
+35805813,22776,Regimen,HemOnc,Regimen,S
+36011899,27225,Measurement,JAX,Variant,
+36012570,21633,Measurement,JAX,Variant,
+35965903,22550,Measurement,JAX,Variant,
+35966762,23121,Measurement,JAX,Variant,
+36013150,23144,Measurement,JAX,Variant,
+36718835,22639,Measurement,ClinVar,Variant,
+36719173,25123,Measurement,ClinVar,Variant,
+36015325,28424,Measurement,JAX,Variant,
+36017578,28461,Measurement,JAX,Variant,
+36719867,27801,Measurement,ClinVar,Variant,
+35976136,22773,Measurement,JAX,Variant,
+35967241,24148,Measurement,JAX,Variant,
+35975797,27541,Measurement,JAX,Variant,
+35970038,58232,Measurement,ClinVar,Variant,
+36016089,28443,Measurement,JAX,Variant,
+36720414,23183,Measurement,ClinVar,Variant,
+36017783,28471,Measurement,JAX,Variant,
+35811546,22148,Observation,UK Biobank,Question,
+35811633,22606,Observation,UK Biobank,Question,S
+35811636,22609,Observation,UK Biobank,Question,S
+35811666,22664,Observation,UK Biobank,Question,S
+35811645,22618,Observation,UK Biobank,Question,S
+35811656,22650,Observation,UK Biobank,Question,S
+35811653,22643,Observation,UK Biobank,Question,
+35812169,25199,Measurement,UK Biobank,Variable,
+35813963,27555,Measurement,UK Biobank,Variable,
+35811667,22670,Measurement,UK Biobank,Variable,
+35811673,22676,Measurement,UK Biobank,Variable,
+35814050,27642,Measurement,UK Biobank,Variable,
+35812145,25175,Measurement,UK Biobank,Variable,
+35813959,27551,Measurement,UK Biobank,Variable,
+35811672,22675,Measurement,UK Biobank,Variable,
+35812202,25232,Measurement,UK Biobank,Variable,
+41960619,62656,Geography,OSM,6th level,S
+41960867,62398,Geography,OSM,6th level,S
+41960833,62592,Geography,OSM,6th level,S
+41961000,62411,Geography,OSM,6th level,S
+41960505,62414,Geography,OSM,6th level,S
+41961070,62496,Geography,OSM,6th level,S
+41960487,62578,Geography,OSM,6th level,S
+41960786,62387,Geography,OSM,6th level,S
+41960647,62489,Geography,OSM,6th level,S
+41960679,62741,Geography,OSM,6th level,S
+41995729,45115,Geography,OSM,8th level,S
+41954598,63218,Geography,OSM,8th level,S
+41997691,44149,Geography,OSM,8th level,S
+41995538,44978,Geography,OSM,8th level,S
+42021893,47404,Geography,OSM,8th level,S
+2000057100,23193,Drug,STANFORD_SHC_DRUG,Undefined,
+2000020151,27796,Drug,STANFORD_LPCH_DRUG,Undefined,
+2000057617,24123,Drug,STANFORD_SHC_DRUG,Undefined,
+2000020127,25159,Drug,STANFORD_LPCH_DRUG,Undefined,
+42046316,62983,Geography,OSM,10th level,S
+42032818,47449,Geography,OSM,10th level,S
+19087978,22584,Drug,RxNorm,Brand Name,
+35101490,47418,Drug,HemOnc,Brand Name,
+35806256,26209,Drug,HemOnc,Brand Name,
+19079103,58289,Drug,RxNorm,Brand Name,
+35101483,47446,Drug,HemOnc,Brand Name,
+43239987,22217,Drug,BDPM,Ingredient,
+43232323,28416,Drug,BDPM,Ingredient,
+35951884,25166,Measurement,OMOP Genomic,Genetic Variation,S
+35957685,28489,Measurement,OMOP Genomic,Genetic Variation,S
+35960427,21622,Measurement,OMOP Genomic,Genetic Variation,S
+35964343,25206,Measurement,OMOP Genomic,Genetic Variation,S
+35954440,24114,Measurement,OMOP Genomic,Genetic Variation,S
+35954036,25157,Measurement,OMOP Genomic,Genetic Variation,S
+35958043,25228,Measurement,OMOP Genomic,Genetic Variation,S
+35945479,23142,Measurement,OMOP Genomic,Genetic Variation,S
+35964316,25133,Measurement,OMOP Genomic,Genetic Variation,S
+35957696,21624,Measurement,OMOP Genomic,Genetic Variation,S
+35946124,28658,Measurement,OMOP Genomic,Genetic Variation,S
+35951438,28654,Measurement,OMOP Genomic,Genetic Variation,S
+35957479,28157,Measurement,OMOP Genomic,Genetic Variation,S
+35954998,28484,Measurement,OMOP Genomic,Genetic Variation,S
+35962601,28537,Measurement,OMOP Genomic,Genetic Variation,S
+35951613,22223,Measurement,OMOP Genomic,Genetic Variation,S
+35962274,28442,Measurement,OMOP Genomic,Genetic Variation,S
+35954839,29852,Measurement,OMOP Genomic,Genetic Variation,S
+35945970,28147,Measurement,OMOP Genomic,Genetic Variation,S
+35945278,25216,Measurement,OMOP Genomic,Genetic Variation,S
+35963648,25168,Measurement,OMOP Genomic,Genetic Variation,S
+35954876,28426,Measurement,OMOP Genomic,Genetic Variation,S
+35958151,26245,Measurement,OMOP Genomic,Genetic Variation,S
+35947002,28401,Measurement,OMOP Genomic,Genetic Variation,S
+35951052,28587,Measurement,OMOP Genomic,Genetic Variation,S
+35952470,23189,Measurement,OMOP Genomic,Genetic Variation,S
+35948448,25208,Measurement,OMOP Genomic,Genetic Variation,S
+35949053,23193,Measurement,OMOP Genomic,Genetic Variation,S
+19121677,58157,Drug,RxNorm,Precise Ingredient,
+43251473,28589,Drug,BDPM,Ingredient,
+45413832,22690,Drug,Multum,Multum,
+45410462,28656,Drug,Multum,Multum,
+45415316,28598,Drug,Multum,Multum,
+45410414,27553,Drug,Multum,Multum,
+45412795,26218,Drug,Multum,Multum,
+45410452,28548,Drug,Multum,Multum,
+45414138,28596,Drug,Multum,Multum,
+45412796,26221,Drug,Multum,Multum,
+45414063,27243,Drug,Multum,Multum,
+45411713,28473,Drug,Multum,Multum,
+45410461,28647,Drug,Multum,Multum,
+35805769,21625,Regimen,HemOnc,Regimen,S
+35805828,23154,Regimen,HemOnc,Regimen,S
+35967276,23194,Measurement,JAX,Variant,
+36016003,28437,Measurement,JAX,Variant,
+35972617,27352,Measurement,ClinVar,Variant,
+36719933,27072,Measurement,ClinVar,Variant,
+36013824,23197,Measurement,JAX,Variant,
+36719538,23206,Measurement,ClinVar,Variant,
+35975428,27773,Measurement,JAX,Variant,
+36741500,27354,Measurement,JAX,Variant,
+36013792,28413,Measurement,JAX,Variant,
+36719880,27543,Measurement,ClinVar,Variant,
+36017784,28472,Measurement,JAX,Variant,
+36719351,25124,Measurement,ClinVar,Variant,
+35972658,28590,Measurement,ClinVar,Variant,
+35975679,26229,Measurement,JAX,Variant,
+35972631,28591,Measurement,ClinVar,Variant,
+35971529,27554,Measurement,ClinVar,Variant,
+35971469,28166,Measurement,ClinVar,Variant,
+36720514,22106,Measurement,ClinVar,Variant,
+36017810,28478,Measurement,JAX,Variant,
+36015301,28592,Measurement,JAX,Variant,
+36016030,23132,Measurement,JAX,Variant,
+35974294,27183,Measurement,JAX,Variant,
+35811630,22603,Observation,UK Biobank,Question,S
+35811412,21035,Observation,UK Biobank,Question,S
+35811796,23126,Measurement,UK Biobank,Variable,
+35814179,27771,Measurement,UK Biobank,Variable,
+35812125,25155,Measurement,UK Biobank,Variable,
+35812094,25124,Measurement,UK Biobank,Variable,
+35811678,22681,Measurement,UK Biobank,Variable,
+35812159,25189,Measurement,UK Biobank,Variable,
+35812098,25128,Measurement,UK Biobank,Variable,
+35811792,23122,Measurement,UK Biobank,Variable,
+35812104,25134,Measurement,UK Biobank,Variable,
+35814165,27757,Measurement,UK Biobank,Variable,
+35813934,27526,Measurement,UK Biobank,Variable,
+35811675,22678,Measurement,UK Biobank,Variable,
+41970970,62691,Geography,OSM,6th level,S
+41960775,62672,Geography,OSM,6th level,S
+41960798,62514,Geography,OSM,6th level,S
+42033954,28595,Geography,OSM,6th level,S
+41960940,62724,Geography,OSM,6th level,S
+41960807,62415,Geography,OSM,6th level,S
+41960668,62663,Geography,OSM,6th level,S
+41960427,62644,Geography,OSM,6th level,S
+41960950,62744,Geography,OSM,6th level,S
+41960742,62664,Geography,OSM,6th level,S
+41970857,62636,Geography,OSM,6th level,S
+41960899,62449,Geography,OSM,6th level,S
+41961019,62610,Geography,OSM,6th level,S
+41960985,62471,Geography,OSM,6th level,S
+41960805,62621,Geography,OSM,6th level,S
+41960697,62548,Geography,OSM,6th level,S
+41970980,62725,Geography,OSM,6th level,S
+41961002,62764,Geography,OSM,6th level,S
+41960941,62547,Geography,OSM,6th level,S
+42022050,47436,Geography,OSM,8th level,S
+41951801,58170,Geography,OSM,8th level,S
+41998002,45124,Geography,OSM,8th level,S
+42005875,45125,Geography,OSM,8th level,S
+41951988,27811,Geography,OSM,8th level,S
+41997656,44957,Geography,OSM,8th level,S
+41940711,58167,Geography,OSM,8th level,S
+42006103,44154,Geography,OSM,8th level,S
+41933212,58188,Geography,OSM,8th level,S
+41999990,45133,Geography,OSM,8th level,S
+42001243,44952,Geography,OSM,8th level,S
+41966913,58161,Geography,OSM,8th level,S
+2000020153,27800,Drug,STANFORD_LPCH_DRUG,Undefined,
+35101753,22211,Drug,HemOnc,Brand Name,
+19058973,47627,Drug,RxNorm,Ingredient,S
+19069107,27518,Drug,RxNorm,Ingredient,S
+19088915,22759,Drug,RxNorm,Ingredient,S
+35807200,44958,Drug,HemOnc,Component Class,C
+35947331,28547,Measurement,OMOP Genomic,Genetic Variation,S
+35963091,25129,Measurement,OMOP Genomic,Genetic Variation,S
+35953406,21628,Measurement,OMOP Genomic,Genetic Variation,S
+35954295,28623,Measurement,OMOP Genomic,Genetic Variation,S
+35950343,25232,Measurement,OMOP Genomic,Genetic Variation,S
+35959237,28403,Measurement,OMOP Genomic,Genetic Variation,S
+35962096,28136,Measurement,OMOP Genomic,Genetic Variation,S
+35963621,25174,Measurement,OMOP Genomic,Genetic Variation,S
+35946950,28432,Measurement,OMOP Genomic,Genetic Variation,S
+35964470,28602,Measurement,OMOP Genomic,Genetic Variation,S
+35951508,28534,Measurement,OMOP Genomic,Genetic Variation,S
+35955600,28526,Measurement,OMOP Genomic,Genetic Variation,S
+35951327,28622,Measurement,OMOP Genomic,Genetic Variation,S
+35963291,28167,Measurement,OMOP Genomic,Genetic Variation,S
+35947366,28541,Measurement,OMOP Genomic,Genetic Variation,S
+35951955,23215,Measurement,OMOP Genomic,Genetic Variation,S
+35954144,26222,Measurement,OMOP Genomic,Genetic Variation,S
+35946401,28155,Measurement,OMOP Genomic,Genetic Variation,S
+35946801,28644,Measurement,OMOP Genomic,Genetic Variation,S
+19064721,25194,Drug,RxNorm,Precise Ingredient,
+19064692,25190,Drug,RxNorm,Precise Ingredient,
+43236104,28643,Drug,BDPM,Ingredient,
+43239867,22546,Drug,BDPM,Ingredient,
+35807196,44954,Drug,HemOnc,Route,
+45416370,25182,Drug,Multum,Multum,
+45411580,26246,Drug,Multum,Multum,
+45414088,27549,Drug,Multum,Multum,
+45410449,28479,Drug,Multum,Multum,
+45415322,28662,Drug,Multum,Multum,
+45411434,22145,Drug,Multum,Multum,
+45417745,28133,Drug,Multum,Multum,
+35806337,27796,Regimen,HemOnc,Regimen,S
+35805812,22657,Regimen,HemOnc,Regimen,S
+35805768,21612,Regimen,HemOnc,Regimen,S
+35972424,27643,Measurement,ClinVar,Variant,
+36719460,27210,Measurement,ClinVar,Variant,
+36016225,28444,Measurement,JAX,Variant,
+36719222,27527,Measurement,ClinVar,Variant,
+35974996,27531,Measurement,JAX,Variant,
+36767874,26226,Measurement,ClinVar,Variant,
+36017775,28466,Measurement,JAX,Variant,
+36719509,23211,Measurement,ClinVar,Variant,
+35967883,22604,Measurement,JAX,Variant,
+36015323,28422,Measurement,JAX,Variant,
+36011846,23207,Measurement,JAX,Variant,
+36015038,27564,Measurement,ClinVar,Variant,
+36767876,26238,Measurement,ClinVar,Variant,
+36015326,28425,Measurement,JAX,Variant,
+35972645,28589,Measurement,ClinVar,Variant,
+36016000,28434,Measurement,JAX,Variant,
+36015279,25209,Measurement,JAX,Variant,
+36719877,27548,Measurement,ClinVar,Variant,
+36016615,23202,Measurement,JAX,Variant,
+36017691,27547,Measurement,JAX,Variant,
+36720421,28634,Measurement,ClinVar,Variant,
+35811635,22608,Observation,UK Biobank,Question,S
+35811646,22619,Observation,UK Biobank,Question,S
+35811651,22641,Observation,UK Biobank,Question,S
+35812163,25193,Measurement,UK Biobank,Variable,
+35813961,27553,Measurement,UK Biobank,Variable,
+35813937,27529,Measurement,UK Biobank,Variable,
+35811671,22674,Measurement,UK Biobank,Variable,
+35812129,25159,Measurement,UK Biobank,Variable,
+35811797,23127,Measurement,UK Biobank,Variable,
+35811819,23217,Measurement,UK Biobank,Variable,
+35812175,25205,Measurement,UK Biobank,Variable,
+41970934,62504,Geography,OSM,4th level,S
+41960734,62726,Geography,OSM,6th level,S
+41961035,62502,Geography,OSM,6th level,S
+41960601,62748,Geography,OSM,6th level,S
+41960983,62574,Geography,OSM,6th level,S
+41960975,62628,Geography,OSM,6th level,S
+41960638,62770,Geography,OSM,6th level,S
+41960748,62520,Geography,OSM,6th level,S
+41960724,62687,Geography,OSM,6th level,S
+41960777,62536,Geography,OSM,6th level,S
+41960759,62393,Geography,OSM,6th level,S
+41960966,62488,Geography,OSM,6th level,S
+41960838,62618,Geography,OSM,6th level,S
+41970977,62482,Geography,OSM,6th level,S
+41970983,62450,Geography,OSM,6th level,S
+41960605,62452,Geography,OSM,6th level,S
+41960482,62658,Geography,OSM,6th level,S
+41961046,62733,Geography,OSM,6th level,S
+41961016,62535,Geography,OSM,6th level,S
+41960780,62641,Geography,OSM,6th level,S
+41960936,62528,Geography,OSM,6th level,S
+41890460,58257,Geography,OSM,8th level,S
+41936493,58187,Geography,OSM,8th level,S
+41974023,62705,Geography,OSM,8th level,S
+41957206,56331,Geography,OSM,8th level,S
+41956858,56329,Geography,OSM,8th level,S
+41931935,58201,Geography,OSM,8th level,S
+41978166,26225,Geography,OSM,8th level,S
+2000057096,23191,Drug,STANFORD_SHC_DRUG,Undefined,
+2000056362,22582,Drug,STANFORD_SHC_DRUG,Undefined,
+2000020156,27805,Drug,STANFORD_LPCH_DRUG,Undefined,
+35806025,24144,Drug,HemOnc,Brand Name,
+43236261,27812,Drug,BDPM,Ingredient,
+19002230,27221,Drug,RxNorm,Ingredient,S
+43239902,28459,Drug,BDPM,Ingredient,
+1507558,28656,Drug,RxNorm,Ingredient,S
+43047969,62468,Drug,BDPM,Ingredient,
+1000772,26237,Drug,RxNorm,Ingredient,S
+44577214,22799,Drug,DPD,Drug Product,
+44607293,27553,Drug,DPD,Drug Product,
+35959461,25184,Measurement,OMOP Genomic,Genetic Variation,S
+35947066,28596,Measurement,OMOP Genomic,Genetic Variation,S
+35954898,28163,Measurement,OMOP Genomic,Genetic Variation,S
+35954452,23137,Measurement,OMOP Genomic,Genetic Variation,S
+35952426,25188,Measurement,OMOP Genomic,Genetic Variation,S
+35946023,23186,Measurement,OMOP Genomic,Genetic Variation,S
+35946822,28133,Measurement,OMOP Genomic,Genetic Variation,S
+35961741,28568,Measurement,OMOP Genomic,Genetic Variation,S
+35949509,28439,Measurement,OMOP Genomic,Genetic Variation,S
+35955945,28554,Measurement,OMOP Genomic,Genetic Variation,S
+35956837,28412,Measurement,OMOP Genomic,Genetic Variation,S
+35950398,28453,Measurement,OMOP Genomic,Genetic Variation,S
+35948103,28512,Measurement,OMOP Genomic,Genetic Variation,S
+35954125,28517,Measurement,OMOP Genomic,Genetic Variation,S
+35946065,28128,Measurement,OMOP Genomic,Genetic Variation,S
+35962413,28577,Measurement,OMOP Genomic,Genetic Variation,S
+35964459,28407,Measurement,OMOP Genomic,Genetic Variation,S
+35964111,28569,Measurement,OMOP Genomic,Genetic Variation,S
+35947244,25152,Measurement,OMOP Genomic,Genetic Variation,S
+35948159,28671,Measurement,OMOP Genomic,Genetic Variation,S
+35961038,19265,Measurement,OMOP Genomic,Genetic Variation,S
+35958781,26219,Measurement,OMOP Genomic,Genetic Variation,S
+45412890,27539,Drug,Multum,Multum,
+45412926,28549,Drug,Multum,Multum,
+45415150,25179,Drug,Multum,Multum,
+45409169,27533,Drug,Multum,Multum,
+45415195,26224,Drug,Multum,Multum,
+45414130,28444,Drug,Multum,Multum,
+45410447,28441,Drug,Multum,Multum,
+45411649,27237,Drug,Multum,Multum,
+45412665,23198,Drug,Multum,Multum,
+45408891,19267,Drug,Multum,Multum,
+45409210,28559,Drug,Multum,Multum,
+35805811,22656,Regimen,HemOnc,Regimen,S
+35805831,23181,Regimen,HemOnc,Regimen,S
+1524916,28460,Regimen,HemOnc,Regimen,S
+1524888,22695,Regimen,HemOnc,Regimen,S
+35976414,26245,Measurement,JAX,Variant,
+36719879,27545,Measurement,ClinVar,Variant,
+36017758,28494,Measurement,JAX,Variant,
+36720108,28663,Measurement,ClinVar,Variant,
+35975048,27721,Measurement,JAX,Variant,
+35976898,22647,Measurement,JAX,Variant,
+36719229,27531,Measurement,ClinVar,Variant,
+36017826,23205,Measurement,JAX,Variant,
+35971536,27551,Measurement,ClinVar,Variant,
+35967336,28574,Measurement,JAX,Variant,
+36720442,28672,Measurement,ClinVar,Variant,
+36719775,22591,Measurement,ClinVar,Variant,
+36017050,28454,Measurement,JAX,Variant,
+35972614,27354,Measurement,ClinVar,Variant,
+36017045,28449,Measurement,JAX,Variant,
+35967706,22736,Measurement,JAX,Variant,
+36718933,25168,Measurement,ClinVar,Variant,
+36017791,28477,Measurement,JAX,Variant,
+35970027,58206,Measurement,ClinVar,Variant,
+36017811,28479,Measurement,JAX,Variant,
+36013891,28419,Measurement,JAX,Variant,
+36016005,28439,Measurement,JAX,Variant,
+35970026,58189,Measurement,ClinVar,Variant,
+35974578,24121,Measurement,JAX,Variant,
+35974932,28168,Measurement,JAX,Variant,
+35972633,28586,Measurement,ClinVar,Variant,
+35965319,25123,Measurement,JAX,Variant,
+36013889,28417,Measurement,JAX,Variant,
+36017815,28483,Measurement,JAX,Variant,
+35967188,28659,Measurement,JAX,Variant,
+35811662,22660,Observation,UK Biobank,Question,S
+35811663,22661,Observation,UK Biobank,Question,
+35811415,21038,Observation,UK Biobank,Question,S
+35811410,21033,Observation,UK Biobank,Question,S
+35813762,27354,Measurement,UK Biobank,Variable,
+35813481,27073,Measurement,UK Biobank,Variable,
+35814051,27643,Measurement,UK Biobank,Variable,
+35812178,25208,Measurement,UK Biobank,Variable,
+35812176,25206,Measurement,UK Biobank,Variable,
+35811680,22683,Observation,UK Biobank,Variable,S
+35813633,27225,Measurement,UK Biobank,Variable,
+35813971,27563,Measurement,UK Biobank,Variable,
+35811456,21622,Observation,UK Biobank,Variable,
+35812128,25158,Measurement,UK Biobank,Variable,
+35813647,27239,Measurement,UK Biobank,Variable,
+35812135,25165,Measurement,UK Biobank,Variable,
+35813641,27233,Measurement,UK Biobank,Variable,
+41960839,62582,Geography,OSM,6th level,S
+41960445,62602,Geography,OSM,6th level,S
+41970963,62768,Geography,OSM,6th level,S
+41961033,62485,Geography,OSM,6th level,S
+41960849,62588,Geography,OSM,6th level,S
+41970984,62493,Geography,OSM,6th level,S
+41960911,62511,Geography,OSM,6th level,S
+41960648,62706,Geography,OSM,6th level,S
+41961050,62537,Geography,OSM,6th level,S
+41960901,62662,Geography,OSM,6th level,S
+41960486,62717,Geography,OSM,6th level,S
+41960758,62451,Geography,OSM,6th level,S
+41961102,62785,Geography,OSM,6th level,S
+41960533,62638,Geography,OSM,6th level,S
+41890601,58250,Geography,OSM,8th level,S
+42005925,44961,Geography,OSM,8th level,S
+41997040,44969,Geography,OSM,8th level,S
+42002326,44964,Geography,OSM,8th level,S
+41890688,58255,Geography,OSM,8th level,S
+41966285,58169,Geography,OSM,8th level,S
+41940265,62749,Geography,OSM,8th level,S
+41977482,63058,Geography,OSM,8th level,S
+2000057719,26219,Drug,STANFORD_SHC_DRUG,Undefined,
+42032927,47457,Geography,OSM,10th level,S
+1524909,28151,Drug,HemOnc,Brand Name,
+35806249,26202,Drug,HemOnc,Brand Name,
+35806251,26204,Drug,HemOnc,Brand Name,
+35806022,24141,Drug,HemOnc,Brand Name,
+35806024,24143,Drug,HemOnc,Brand Name,
+19069161,28165,Drug,RxNorm,Ingredient,S
+19007536,28574,Drug,RxNorm,Ingredient,S
+19064528,25161,Drug,RxNorm,Ingredient,S
+19058971,47624,Drug,RxNorm,Ingredient,S
+35946544,23149,Measurement,OMOP Genomic,Genetic Variation,S
+35948260,27801,Measurement,OMOP Genomic,Genetic Variation,S
+35962460,28461,Measurement,OMOP Genomic,Genetic Variation,S
+35955042,21043,Measurement,OMOP Genomic,Genetic Variation,S
+35962566,21035,Measurement,OMOP Genomic,Genetic Variation,S
+35957948,23208,Measurement,OMOP Genomic,Genetic Variation,S
+35957114,25189,Measurement,OMOP Genomic,Genetic Variation,S
+35949826,25201,Measurement,OMOP Genomic,Genetic Variation,S
+35959971,28139,Measurement,OMOP Genomic,Genetic Variation,S
+35960628,28148,Measurement,OMOP Genomic,Genetic Variation,S
+35960585,28506,Measurement,OMOP Genomic,Genetic Variation,S
+35956404,21617,Measurement,OMOP Genomic,Genetic Variation,S
+35958480,25127,Measurement,OMOP Genomic,Genetic Variation,S
+35950435,28580,Measurement,OMOP Genomic,Genetic Variation,S
+35957230,25197,Measurement,OMOP Genomic,Genetic Variation,S
+35946201,25226,Measurement,OMOP Genomic,Genetic Variation,S
+35952352,28437,Measurement,OMOP Genomic,Genetic Variation,S
+35962248,25185,Measurement,OMOP Genomic,Genetic Variation,S
+35946114,23197,Measurement,OMOP Genomic,Genetic Variation,S
+35957996,22644,Measurement,OMOP Genomic,Genetic Variation,S
+35953694,23136,Measurement,OMOP Genomic,Genetic Variation,S
+35946270,25237,Measurement,OMOP Genomic,Genetic Variation,S
+35964268,23154,Measurement,OMOP Genomic,Genetic Variation,S
+43236043,62411,Drug,BDPM,Ingredient,
+43224285,27352,Drug,BDPM,Ingredient,
+45410424,27791,Drug,Multum,Multum,
+45412899,27797,Drug,Multum,Multum,
+45413989,26245,Drug,Multum,Multum,
+45413830,22655,Drug,Multum,Multum,
+45416548,28613,Drug,Multum,Multum,
+45414089,27563,Drug,Multum,Multum,
+45412898,27763,Drug,Multum,Multum,
+45409093,26223,Drug,Multum,Multum,
+45417699,27241,Drug,Multum,Multum,
+45412666,23205,Drug,Multum,Multum,
+45410298,25155,Drug,Multum,Multum,
+45415276,27561,Drug,Multum,Multum,
+45415315,28564,Drug,Multum,Multum,
+905764,62403,Regimen,HemOnc,Regimen,S
+35806311,27262,Regimen,HemOnc,Regimen,S
+35965796,27068,Measurement,JAX,Variant,
+36731754,27643,Measurement,JAX,Variant,
+35966240,28655,Measurement,JAX,Variant,
+36718915,26218,Measurement,ClinVar,Variant,
+36017812,28480,Measurement,JAX,Variant,
+35976114,22115,Measurement,JAX,Variant,
+36720286,27639,Measurement,JAX,Variant,
+36010188,28631,Measurement,JAX,Variant,
+35975747,28634,Measurement,JAX,Variant,
+36719346,25166,Measurement,ClinVar,Variant,
+36011873,24127,Measurement,JAX,Variant,
+35974067,27074,Measurement,JAX,Variant,
+36720483,23134,Measurement,ClinVar,Variant,
+36016217,23129,Measurement,JAX,Variant,
+36015329,28427,Measurement,JAX,Variant,
+35966326,26218,Measurement,JAX,Variant,
+36718955,28568,Measurement,ClinVar,Variant,
+35965272,26251,Measurement,JAX,Variant,
+35975056,24122,Measurement,JAX,Variant,
+35966893,28633,Measurement,JAX,Variant,
+36016006,28440,Measurement,JAX,Variant,
+36013288,28402,Measurement,JAX,Variant,
+36719947,28574,Measurement,ClinVar,Variant,
+36013871,23147,Measurement,JAX,Variant,
+35974324,25168,Measurement,JAX,Variant,
+36719500,28157,Measurement,ClinVar,Variant,
+35811404,21027,Observation,UK Biobank,Question,S
+35813659,27251,Measurement,UK Biobank,Variable,
+35813670,27262,Measurement,UK Biobank,Variable,
+35813649,27241,Measurement,UK Biobank,Variable,
+35813672,27264,Measurement,UK Biobank,Variable,
+35812161,25191,Measurement,UK Biobank,Variable,
+35812156,25186,Measurement,UK Biobank,Variable,
+35813657,27249,Measurement,UK Biobank,Variable,
+35812131,25161,Measurement,UK Biobank,Variable,
+35814159,27751,Measurement,UK Biobank,Variable,
+35812103,25133,Measurement,UK Biobank,Variable,
+35813669,27261,Measurement,UK Biobank,Variable,
+41961072,62425,Geography,OSM,6th level,S
+41960606,62555,Geography,OSM,6th level,S
+41960879,62615,Geography,OSM,6th level,S
+41960905,62481,Geography,OSM,6th level,S
+41960600,62512,Geography,OSM,6th level,S
+41961014,62527,Geography,OSM,6th level,S
+41960776,62587,Geography,OSM,6th level,S
+41960934,62591,Geography,OSM,6th level,S
+41960631,62524,Geography,OSM,6th level,S
+41960678,62406,Geography,OSM,6th level,S
+41960460,62407,Geography,OSM,6th level,S
+41961004,62455,Geography,OSM,6th level,S
+41960973,62571,Geography,OSM,6th level,S
+41960915,62385,Geography,OSM,6th level,S
+41960633,62483,Geography,OSM,6th level,S
+41960850,62552,Geography,OSM,6th level,S
+41997190,44973,Geography,OSM,8th level,S
+41890891,58274,Geography,OSM,8th level,S
+41996126,45134,Geography,OSM,8th level,S
+35805794,22105,Procedure,HemOnc,Procedure,
+2000056592,22743,Drug,STANFORD_SHC_DRUG,Undefined,
+35805999,24118,Drug,HemOnc,Brand Name,
+35101485,47443,Drug,HemOnc,Brand Name,
+35806367,28578,Drug,HemOnc,Brand Name,
+43046613,58205,Drug,BDPM,Ingredient,
+19069110,27779,Drug,RxNorm,Ingredient,S
+19071861,28554,Drug,RxNorm,Ingredient,S
+43239701,23186,Drug,BDPM,Ingredient,
+35956189,26239,Measurement,OMOP Genomic,Genetic Variation,S
+35947926,28613,Measurement,OMOP Genomic,Genetic Variation,S
+35954874,25199,Measurement,OMOP Genomic,Genetic Variation,S
+35945131,25231,Measurement,OMOP Genomic,Genetic Variation,S
+35945923,25204,Measurement,OMOP Genomic,Genetic Variation,S
+35956694,28598,Measurement,OMOP Genomic,Genetic Variation,S
+35951159,28511,Measurement,OMOP Genomic,Genetic Variation,S
+35946131,27564,Measurement,OMOP Genomic,Genetic Variation,S
+35949625,27561,Measurement,OMOP Genomic,Genetic Variation,S
+35953353,23133,Measurement,OMOP Genomic,Genetic Variation,S
+35947403,28610,Measurement,OMOP Genomic,Genetic Variation,S
+35961837,28508,Measurement,OMOP Genomic,Genetic Variation,S
+35961187,25207,Measurement,OMOP Genomic,Genetic Variation,S
+35962726,25236,Measurement,OMOP Genomic,Genetic Variation,S
+35955885,28518,Measurement,OMOP Genomic,Genetic Variation,S
+35950321,25202,Measurement,OMOP Genomic,Genetic Variation,S
+35956209,19269,Measurement,OMOP Genomic,Genetic Variation,S
+35960357,22788,Measurement,OMOP Genomic,Genetic Variation,S
+35953650,21607,Measurement,OMOP Genomic,Genetic Variation,S
+35954292,19268,Measurement,OMOP Genomic,Genetic Variation,S
+43236208,22712,Drug,BDPM,Ingredient,
+19112551,47403,Drug,RxNorm,Brand Name,
+45415321,28646,Drug,Multum,Multum,
+45409094,26257,Drug,Multum,Multum,
+45414144,28669,Drug,Multum,Multum,
+45412748,25173,Drug,Multum,Multum,
+45417758,28553,Drug,Multum,Multum,
+45417732,27794,Drug,Multum,Multum,
+45409045,25184,Drug,Multum,Multum,
+45417734,27811,Drug,Multum,Multum,
+45416371,25185,Drug,Multum,Multum,
+45416519,27837,Drug,Multum,Multum,
+45410454,28572,Drug,Multum,Multum,
+45412925,28541,Drug,Multum,Multum,
+45412889,27537,Drug,Multum,Multum,
+45412885,27504,Drug,Multum,Multum,
+45412856,27255,Drug,Multum,Multum,
+45415320,28639,Drug,Multum,Multum,
+1524898,26244,Regimen,HemOnc,Regimen,S
+905766,62466,Regimen,HemOnc,Regimen,S
+35970898,58151,Measurement,ClinVar,Variant,
+36013484,28651,Measurement,JAX,Variant,
+36014965,27262,Measurement,ClinVar,Variant,
+36015068,28583,Measurement,ClinVar,Variant,
+36016646,28578,Measurement,JAX,Variant,
+35966982,28590,Measurement,JAX,Variant,
+36720520,27551,Measurement,JAX,Variant,
+36012942,26212,Measurement,JAX,Variant,
+35965420,28663,Measurement,JAX,Variant,
+36013287,28401,Measurement,JAX,Variant,
+35966083,23208,Measurement,JAX,Variant,
+35975795,22106,Measurement,JAX,Variant,
+35972656,28582,Measurement,ClinVar,Variant,
+36719285,23121,Measurement,ClinVar,Variant,
+36720752,28129,Measurement,JAX,Variant,
+36017034,23137,Measurement,JAX,Variant,
+36012550,23189,Measurement,JAX,Variant,
+35976179,26226,Measurement,JAX,Variant,
+35811652,22642,Observation,UK Biobank,Question,
+35811659,22653,Observation,UK Biobank,Question,
+35811657,22651,Observation,UK Biobank,Question,S
+35811631,22604,Observation,UK Biobank,Question,S
+35811643,22616,Observation,UK Biobank,Question,S
+35814047,27639,Measurement,UK Biobank,Variable,
+35813588,27180,Measurement,UK Biobank,Variable,
+35813929,27521,Measurement,UK Biobank,Variable,
+35812158,25188,Measurement,UK Biobank,Variable,
+35812148,25178,Measurement,UK Biobank,Variable,
+35813947,27539,Measurement,UK Biobank,Variable,
+35811814,23213,Measurement,UK Biobank,Variable,
+35812143,25173,Measurement,UK Biobank,Variable,
+35813936,27528,Measurement,UK Biobank,Variable,
+35811687,22703,Observation,UK Biobank,Variable,
+35812171,25201,Measurement,UK Biobank,Variable,
+35813950,27542,Measurement,UK Biobank,Variable,
+35814169,27761,Measurement,UK Biobank,Variable,
+35813941,27533,Measurement,UK Biobank,Variable,
+41960852,62727,Geography,OSM,6th level,S
+41960549,62413,Geography,OSM,6th level,S
+41970981,62546,Geography,OSM,6th level,S
+41960887,62558,Geography,OSM,6th level,S
+41960735,62698,Geography,OSM,6th level,S
+41960568,62419,Geography,OSM,6th level,S
+41960556,62703,Geography,OSM,6th level,S
+41960895,62484,Geography,OSM,6th level,S
+41960841,62530,Geography,OSM,6th level,S
+41961001,62651,Geography,OSM,6th level,S
+41961058,62943,Geography,OSM,6th level,S
+41960712,62707,Geography,OSM,6th level,S
+41960683,62627,Geography,OSM,6th level,S
+41960746,62766,Geography,OSM,6th level,S
+41960811,62533,Geography,OSM,6th level,S
+41960465,62525,Geography,OSM,6th level,S
+41960751,62416,Geography,OSM,6th level,S
+41890882,58253,Geography,OSM,8th level,S
+42003059,44954,Geography,OSM,8th level,S
+41998783,45127,Geography,OSM,8th level,S
+41957416,22218,Geography,OSM,8th level,S
+42052341,62984,Geography,OSM,10th level,S
+41992266,63062,Geography,OSM,10th level,S
+19089740,23202,Drug,RxNorm,Brand Name,
+35806651,33524,Drug,HemOnc,Brand Name,
+35101744,25200,Drug,HemOnc,Brand Name,
+35101735,28518,Drug,HemOnc,Brand Name,
+43240098,62903,Drug,BDPM,Ingredient,
+43224345,27775,Drug,BDPM,Ingredient,
+35807204,44966,Drug,HemOnc,Component Class,C
+35964309,23139,Measurement,OMOP Genomic,Genetic Variation,S
+35963937,26253,Measurement,OMOP Genomic,Genetic Variation,S
+35949991,22229,Measurement,OMOP Genomic,Genetic Variation,S
+35947373,23191,Measurement,OMOP Genomic,Genetic Variation,S
+35952948,28409,Measurement,OMOP Genomic,Genetic Variation,S
+35958961,28142,Measurement,OMOP Genomic,Genetic Variation,S
+35961134,15921,Measurement,OMOP Genomic,Genetic Variation,S
+35955572,24118,Measurement,OMOP Genomic,Genetic Variation,S
+35951756,25221,Measurement,OMOP Genomic,Genetic Variation,S
+35956587,25235,Measurement,OMOP Genomic,Genetic Variation,S
+35947766,28471,Measurement,OMOP Genomic,Genetic Variation,S
+35947593,25179,Measurement,OMOP Genomic,Genetic Variation,S
+35954335,23207,Measurement,OMOP Genomic,Genetic Variation,S
+35953457,28519,Measurement,OMOP Genomic,Genetic Variation,S
+35963494,28539,Measurement,OMOP Genomic,Genetic Variation,S
+35959836,25196,Measurement,OMOP Genomic,Genetic Variation,S
+35963407,28479,Measurement,OMOP Genomic,Genetic Variation,S
+35963735,25177,Measurement,OMOP Genomic,Genetic Variation,S
+35962290,26223,Measurement,OMOP Genomic,Genetic Variation,S
+35948921,25159,Measurement,OMOP Genomic,Genetic Variation,S
+35953356,28535,Measurement,OMOP Genomic,Genetic Variation,S
+35956123,28662,Measurement,OMOP Genomic,Genetic Variation,S
+35953453,23219,Measurement,OMOP Genomic,Genetic Variation,S
+35945790,28458,Measurement,OMOP Genomic,Genetic Variation,S
+35956305,26216,Measurement,OMOP Genomic,Genetic Variation,S
+35956679,25132,Measurement,OMOP Genomic,Genetic Variation,S
+44834274,V43.65,Observation,ICD9CM,5-dig billing V code,
+43247794,23187,Drug,BDPM,Ingredient,
+35807199,44957,Drug,HemOnc,Route,
+45417759,28581,Drug,Multum,Multum,
+45409209,28526,Drug,Multum,Multum,
+45417755,28440,Drug,Multum,Multum,
+45408960,22148,Drug,Multum,Multum,
+45415196,26256,Drug,Multum,Multum,
+45414055,27195,Drug,Multum,Multum,
+45417518,22146,Drug,Multum,Multum,
+35805834,23215,Regimen,HemOnc,Regimen,S
+35970044,58256,Measurement,ClinVar,Variant,
+36017772,28463,Measurement,JAX,Variant,
+36015351,27251,Measurement,JAX,Variant,
+35968096,26256,Measurement,JAX,Variant,
+36719223,27528,Measurement,ClinVar,Variant,
+36017579,28462,Measurement,JAX,Variant,
+36767750,27183,Measurement,ClinVar,Variant,
+35969943,28133,Measurement,ClinVar,Variant,
+36017820,28488,Measurement,JAX,Variant,
+36767948,22550,Measurement,ClinVar,Variant,
+36011675,22670,Measurement,JAX,Variant,
+35975211,27636,Measurement,JAX,Variant,
+36017821,28489,Measurement,JAX,Variant,
+35976666,27549,Measurement,JAX,Variant,
+35966130,28155,Measurement,JAX,Variant,
+35967586,33575,Measurement,JAX,Variant,
+36014677,23126,Measurement,JAX,Variant,
+36719171,25121,Measurement,ClinVar,Variant,
+36767887,26239,Measurement,ClinVar,Variant,
+35975024,26233,Measurement,JAX,Variant,
+36017032,23135,Measurement,JAX,Variant,
+35976665,27548,Measurement,JAX,Variant,
+36017814,28482,Measurement,JAX,Variant,
+35976546,27221,Measurement,JAX,Variant,
+35811413,21036,Observation,UK Biobank,Question,S
+35811660,22654,Observation,UK Biobank,Question,S
+35811416,21039,Observation,UK Biobank,Question,S
+35811419,21042,Observation,UK Biobank,Question,
+35811634,22607,Observation,UK Biobank,Question,S
+35813590,27182,Measurement,UK Biobank,Variable,
+35812166,25196,Measurement,UK Biobank,Variable,
+35811683,22700,Observation,UK Biobank,Variable,
+35812151,25181,Measurement,UK Biobank,Variable,
+35811688,22704,Observation,UK Biobank,Variable,
+35812138,25168,Measurement,UK Biobank,Variable,
+35813668,27260,Measurement,UK Biobank,Variable,
+35812134,25164,Measurement,UK Biobank,Variable,
+35813642,27234,Measurement,UK Biobank,Variable,
+35813962,27554,Measurement,UK Biobank,Variable,
+35811803,23202,Measurement,UK Biobank,Variable,
+35812204,25234,Measurement,UK Biobank,Variable,
+35813967,27559,Measurement,UK Biobank,Variable,
+41960797,62474,Geography,OSM,6th level,S
+41961101,62719,Geography,OSM,6th level,S
+41960916,62428,Geography,OSM,6th level,S
+41960819,62709,Geography,OSM,6th level,S
+41960504,62581,Geography,OSM,6th level,S
+41960685,62712,Geography,OSM,6th level,S
+41960554,62751,Geography,OSM,6th level,S
+41960595,62701,Geography,OSM,6th level,S
+41960320,62646,Geography,OSM,6th level,S
+41960566,62589,Geography,OSM,6th level,S
+41961032,62579,Geography,OSM,6th level,S
+41960691,62721,Geography,OSM,6th level,S
+41960814,62541,Geography,OSM,6th level,S
+41998719,45396,Geography,OSM,8th level,S
+41890498,58249,Geography,OSM,8th level,S
+41942581,62870,Geography,OSM,8th level,S
+41996778,45129,Geography,OSM,8th level,S
+41997569,44958,Geography,OSM,8th level,S
+35806250,26203,Drug,HemOnc,Brand Name,
+35101489,47430,Drug,HemOnc,Brand Name,
+905765,62452,Drug,HemOnc,Brand Name,
+43046963,62483,Drug,BDPM,Ingredient,
+43228338,63130,Drug,BDPM,Ingredient,
+907553,28627,Drug,RxNorm,Ingredient,S
+19088035,22672,Drug,RxNorm,Ingredient,S
+35957162,28469,Measurement,OMOP Genomic,Genetic Variation,S
+35964415,28152,Measurement,OMOP Genomic,Genetic Variation,S
+35954382,28657,Measurement,OMOP Genomic,Genetic Variation,S
+35961929,23217,Measurement,OMOP Genomic,Genetic Variation,S
+35948099,28129,Measurement,OMOP Genomic,Genetic Variation,S
+35962132,21027,Measurement,OMOP Genomic,Genetic Variation,S
+35948333,25203,Measurement,OMOP Genomic,Genetic Variation,S
+35945845,28499,Measurement,OMOP Genomic,Genetic Variation,S
+35962202,24127,Measurement,OMOP Genomic,Genetic Variation,S
+35955312,28629,Measurement,OMOP Genomic,Genetic Variation,S
+35954909,28477,Measurement,OMOP Genomic,Genetic Variation,S
+35957752,28612,Measurement,OMOP Genomic,Genetic Variation,S
+35957771,25193,Measurement,OMOP Genomic,Genetic Variation,S
+35961403,28670,Measurement,OMOP Genomic,Genetic Variation,S
+35945163,28451,Measurement,OMOP Genomic,Genetic Variation,S
+35946581,28583,Measurement,OMOP Genomic,Genetic Variation,S
+35949497,23147,Measurement,OMOP Genomic,Genetic Variation,S
+35949311,28640,Measurement,OMOP Genomic,Genetic Variation,S
+35953001,28646,Measurement,OMOP Genomic,Genetic Variation,S
+35963047,26209,Measurement,OMOP Genomic,Genetic Variation,S
+35951180,28522,Measurement,OMOP Genomic,Genetic Variation,S
+35946188,26249,Measurement,OMOP Genomic,Genetic Variation,S
+35945943,27351,Measurement,OMOP Genomic,Genetic Variation,S
+35954023,26232,Measurement,OMOP Genomic,Genetic Variation,S
+35956410,28624,Measurement,OMOP Genomic,Genetic Variation,S
+35955664,19266,Measurement,OMOP Genomic,Genetic Variation,S
+35953994,25191,Measurement,OMOP Genomic,Genetic Variation,S
+19054410,22690,Drug,RxNorm,Precise Ingredient,
+19054917,23203,Drug,RxNorm,Precise Ingredient,
+43228270,28408,Drug,BDPM,Ingredient,
+45411578,26233,Drug,Multum,Multum,
+45412920,28439,Drug,Multum,Multum,
+45411645,27210,Drug,Multum,Multum,
+45408972,22652,Drug,Multum,Multum,
+45416221,19269,Drug,Multum,Multum,
+45416549,28650,Drug,Multum,Multum,
+45409090,26219,Drug,Multum,Multum,
+45410457,28601,Drug,Multum,Multum,
+45410460,28633,Drug,Multum,Multum,
+45410459,28614,Drug,Multum,Multum,
+35806368,28672,Regimen,HemOnc,Regimen,S
+35806363,28548,Regimen,HemOnc,Regimen,S
+1525056,58189,Regimen,HemOnc,Regimen,S
+35975506,27804,Measurement,JAX,Variant,
+36015330,28428,Measurement,JAX,Variant,
+36014680,23128,Measurement,JAX,Variant,
+35976534,28532,Measurement,JAX,Variant,
+36011954,23141,Measurement,JAX,Variant,
+35976437,22553,Measurement,JAX,Variant,
+35969954,28131,Measurement,ClinVar,Variant,
+36718664,28589,Measurement,JAX,Variant,
+35976657,28637,Measurement,JAX,Variant,
+36016033,27529,Measurement,JAX,Variant,
+36741651,27068,Measurement,ClinVar,Variant,
+35969990,27764,Measurement,ClinVar,Variant,
+36718986,28661,Measurement,ClinVar,Variant,
+35974945,25201,Measurement,JAX,Variant,
+36718985,28658,Measurement,ClinVar,Variant,
+36017549,25159,Measurement,JAX,Variant,
+35967475,27754,Measurement,JAX,Variant,
+36013890,28418,Measurement,JAX,Variant,
+36017025,23203,Measurement,JAX,Variant,
+35966298,25128,Measurement,JAX,Variant,
+35811661,22655,Observation,UK Biobank,Question,S
+35811650,22640,Observation,UK Biobank,Question,S
+35811654,22644,Observation,UK Biobank,Question,S
+35812172,25202,Measurement,UK Biobank,Variable,
+35811677,22680,Measurement,UK Biobank,Variable,
+35812091,25121,Measurement,UK Biobank,Variable,
+35812181,25211,Measurement,UK Biobank,Variable,
+35813954,27546,Measurement,UK Biobank,Variable,
+35812155,25185,Measurement,UK Biobank,Variable,
+35813629,27221,Measurement,UK Biobank,Variable,
+35813603,27195,Measurement,UK Biobank,Variable,
+35812160,25190,Measurement,UK Biobank,Variable,
+35812157,25187,Measurement,UK Biobank,Variable,
+35811679,22682,Observation,UK Biobank,Variable,S
+35812136,25166,Measurement,UK Biobank,Variable,
+41970931,62611,Geography,OSM,4th level,S
+41970943,62467,Geography,OSM,4th level,S
+41970966,62522,Geography,OSM,6th level,S
+41960283,62640,Geography,OSM,6th level,S
+41961029,62432,Geography,OSM,6th level,S
+41960885,62731,Geography,OSM,6th level,S
+41960762,62457,Geography,OSM,6th level,S
+41961066,62390,Geography,OSM,6th level,S
+41960804,62728,Geography,OSM,6th level,S
+41961027,62617,Geography,OSM,6th level,S
+41960988,62408,Geography,OSM,6th level,S
+41960823,62565,Geography,OSM,6th level,S
+41970969,62630,Geography,OSM,6th level,S
+41960760,62401,Geography,OSM,6th level,S
+41960671,62680,Geography,OSM,6th level,S
+41961067,62586,Geography,OSM,6th level,S
+41960461,62622,Geography,OSM,6th level,S
+41960767,62383,Geography,OSM,6th level,S
+41970959,62400,Geography,OSM,6th level,S
+41960466,62553,Geography,OSM,6th level,S
+41960711,62521,Geography,OSM,6th level,S
+41960907,62542,Geography,OSM,6th level,S
+41997948,45117,Geography,OSM,8th level,S
+42004036,45128,Geography,OSM,8th level,S
+41972293,62564,Geography,OSM,8th level,S
+41972499,62599,Geography,OSM,8th level,S
+41933077,58181,Geography,OSM,8th level,S
+2000020126,25159,Drug,STANFORD_LPCH_DRUG,Undefined,
+35101491,47416,Drug,HemOnc,Brand Name,
+35806009,24128,Drug,HemOnc,Brand Name,
+19096546,25121,Drug,RxNorm,Ingredient,S
+1188052,22696,Drug,RxNorm,Ingredient,S
+43239996,62794,Drug,BDPM,Ingredient,
+19064432,25127,Drug,RxNorm,Ingredient,S
+43232199,28609,Drug,BDPM,Ingredient,
+44558384,22772,Drug,DPD,Drug Product,
+35807208,44976,Drug,HemOnc,Component Class,C
+35950491,24141,Measurement,OMOP Genomic,Genetic Variation,S
+35959532,28449,Measurement,OMOP Genomic,Genetic Variation,S
+35956069,25187,Measurement,OMOP Genomic,Genetic Variation,S
+35954632,26237,Measurement,OMOP Genomic,Genetic Variation,S
+35949696,28418,Measurement,OMOP Genomic,Genetic Variation,S
+35954612,28438,Measurement,OMOP Genomic,Genetic Variation,S
+35960544,28584,Measurement,OMOP Genomic,Genetic Variation,S
+35948927,28413,Measurement,OMOP Genomic,Genetic Variation,S
+35956090,23213,Measurement,OMOP Genomic,Genetic Variation,S
+35962668,28473,Measurement,OMOP Genomic,Genetic Variation,S
+35945929,24142,Measurement,OMOP Genomic,Genetic Variation,S
+35947065,22211,Measurement,OMOP Genomic,Genetic Variation,S
+35950051,28500,Measurement,OMOP Genomic,Genetic Variation,S
+35952152,23206,Measurement,OMOP Genomic,Genetic Variation,S
+35961172,28627,Measurement,OMOP Genomic,Genetic Variation,S
+35956484,25190,Measurement,OMOP Genomic,Genetic Variation,S
+35952799,27537,Measurement,OMOP Genomic,Genetic Variation,S
+35951027,28593,Measurement,OMOP Genomic,Genetic Variation,S
+35945999,28440,Measurement,OMOP Genomic,Genetic Variation,S
+35948381,27843,Measurement,OMOP Genomic,Genetic Variation,S
+35961633,27260,Measurement,OMOP Genomic,Genetic Variation,S
+35956093,25183,Measurement,OMOP Genomic,Genetic Variation,S
+35951865,28109,Measurement,OMOP Genomic,Genetic Variation,S
+35949750,28562,Measurement,OMOP Genomic,Genetic Variation,S
+35956252,26242,Measurement,OMOP Genomic,Genetic Variation,S
+35963551,21606,Measurement,OMOP Genomic,Genetic Variation,S
+35960112,28542,Measurement,OMOP Genomic,Genetic Variation,S
+35947097,28428,Measurement,OMOP Genomic,Genetic Variation,S
+35949030,21625,Measurement,OMOP Genomic,Genetic Variation,S
+35962425,28607,Measurement,OMOP Genomic,Genetic Variation,S
+35959673,27223,Measurement,OMOP Genomic,Genetic Variation,S
+35945754,22225,Measurement,OMOP Genomic,Genetic Variation,S
+35948695,26203,Measurement,OMOP Genomic,Genetic Variation,S
+35947071,28144,Measurement,OMOP Genomic,Genetic Variation,S
+19064407,25122,Drug,RxNorm,Precise Ingredient,
+45411683,27790,Drug,Multum,Multum,
+45410426,27815,Drug,Multum,Multum,
+45412927,28573,Drug,Multum,Multum,
+45417687,27073,Drug,Multum,Multum,
+45414062,27242,Drug,Multum,Multum,
+45415319,28634,Drug,Multum,Multum,
+45417696,27186,Drug,Multum,Multum,
+45415312,28468,Drug,Multum,Multum,
+45416503,27564,Drug,Multum,Multum,
+35805832,23201,Regimen,HemOnc,Regimen,S
+35806305,27068,Regimen,HemOnc,Regimen,S
+35805833,23208,Regimen,HemOnc,Regimen,S
+35806653,33526,Regimen,HemOnc,Regimen,S
+35806334,27764,Regimen,HemOnc,Regimen,S
+35806258,26214,Regimen,HemOnc,Regimen,S
+905617,22581,Regimen,HemOnc,Regimen,S
+905768,62486,Regimen,HemOnc,Regimen,S
+35975101,22769,Measurement,JAX,Variant,
+35965408,26239,Measurement,JAX,Variant,
+36017781,24124,Measurement,JAX,Variant,
+35975959,24141,Measurement,JAX,Variant,
+36721566,27553,Measurement,JAX,Variant,
+35974440,27528,Measurement,JAX,Variant,
+36016641,28447,Measurement,JAX,Variant,
+36015324,28423,Measurement,JAX,Variant,
+36016227,23148,Measurement,JAX,Variant,
+35975424,26219,Measurement,JAX,Variant,
+36721914,27644,Measurement,JAX,Variant,
+35976796,28641,Measurement,JAX,Variant,
+36016041,28441,Measurement,JAX,Variant,
+36719511,23213,Measurement,ClinVar,Variant,
+35967026,28664,Measurement,JAX,Variant,
+35972415,27639,Measurement,ClinVar,Variant,
+35811658,22652,Observation,UK Biobank,Question,
+35811638,22611,Observation,UK Biobank,Question,S
+35811544,22146,Observation,UK Biobank,Question,
+35811628,22601,Observation,UK Biobank,Question,
+35814161,27753,Measurement,UK Biobank,Variable,
+35813951,27543,Measurement,UK Biobank,Variable,
+35813591,27183,Measurement,UK Biobank,Variable,
+35813663,27255,Measurement,UK Biobank,Variable,
+35811813,23212,Measurement,UK Biobank,Variable,
+35811820,23218,Measurement,UK Biobank,Variable,
+35812130,25160,Measurement,UK Biobank,Variable,
+35814162,27754,Measurement,UK Biobank,Variable,
+35811457,21623,Observation,UK Biobank,Variable,
+35812101,25131,Measurement,UK Biobank,Variable,
+35812168,25198,Measurement,UK Biobank,Variable,
+35812173,25203,Measurement,UK Biobank,Variable,
+35812154,25184,Measurement,UK Biobank,Variable,
+35813972,27564,Measurement,UK Biobank,Variable,
+35813594,27186,Measurement,UK Biobank,Variable,
+41960715,62684,Geography,OSM,6th level,S
+41960809,62648,Geography,OSM,6th level,S
+41960709,62711,Geography,OSM,6th level,S
+41960793,62580,Geography,OSM,6th level,S
+41960979,62624,Geography,OSM,6th level,S
+41960815,62494,Geography,OSM,6th level,S
+41961042,62736,Geography,OSM,6th level,S
+41961076,62464,Geography,OSM,6th level,S
+41960503,62389,Geography,OSM,6th level,S
+41960646,62420,Geography,OSM,6th level,S
+41970957,62723,Geography,OSM,6th level,S
+41960507,62526,Geography,OSM,6th level,S
+41960632,62476,Geography,OSM,6th level,S
+41960672,62765,Geography,OSM,6th level,S
+41960630,62480,Geography,OSM,6th level,S
+41960673,62689,Geography,OSM,6th level,S
+41960851,62458,Geography,OSM,6th level,S
+41960935,62626,Geography,OSM,6th level,S
+41961045,62685,Geography,OSM,6th level,S
+41943814,58168,Geography,OSM,8th level,S
+42006173,44974,Geography,OSM,8th level,S
+41943865,58184,Geography,OSM,8th level,S
+41890524,58256,Geography,OSM,8th level,S
+2000057060,23149,Drug,STANFORD_SHC_DRUG,Undefined,
+2000056591,22742,Drug,STANFORD_SHC_DRUG,Undefined,
+2000056387,22615,Drug,STANFORD_SHC_DRUG,Undefined,
+35101492,47415,Drug,HemOnc,Brand Name,
+35806005,24124,Drug,HemOnc,Brand Name,
+1103137,27723,Drug,RxNorm,Ingredient,S
+705103,28439,Drug,RxNorm,Ingredient,S
+43236180,62942,Drug,BDPM,Ingredient,
+19112556,47617,Drug,RxNorm,Ingredient,S
+44679884,22608,Drug,DPD,Drug Product,
+44627512,27537,Drug,DPD,Drug Product,
+35807255,45115,Drug,HemOnc,Component Class,C
+35961980,28625,Measurement,OMOP Genomic,Genetic Variation,S
+35961219,25198,Measurement,OMOP Genomic,Genetic Variation,S
+35950311,28553,Measurement,OMOP Genomic,Genetic Variation,S
+35962863,23196,Measurement,OMOP Genomic,Genetic Variation,S
+35961291,26224,Measurement,OMOP Genomic,Genetic Variation,S
+35953648,24119,Measurement,OMOP Genomic,Genetic Variation,S
+35947137,25162,Measurement,OMOP Genomic,Genetic Variation,S
+35962018,21629,Measurement,OMOP Genomic,Genetic Variation,S
+35955991,23214,Measurement,OMOP Genomic,Genetic Variation,S
+35959201,28504,Measurement,OMOP Genomic,Genetic Variation,S
+35964190,22228,Measurement,OMOP Genomic,Genetic Variation,S
+35946123,25163,Measurement,OMOP Genomic,Genetic Variation,S
+35962670,25234,Measurement,OMOP Genomic,Genetic Variation,S
+35961488,28592,Measurement,OMOP Genomic,Genetic Variation,S
+35950486,28408,Measurement,OMOP Genomic,Genetic Variation,S
+35947397,26202,Measurement,OMOP Genomic,Genetic Variation,S
+35958751,25217,Measurement,OMOP Genomic,Genetic Variation,S
+35948342,28454,Measurement,OMOP Genomic,Genetic Variation,S
+35960987,26258,Measurement,OMOP Genomic,Genetic Variation,S
+35961362,25209,Measurement,OMOP Genomic,Genetic Variation,S
+35949245,28641,Measurement,OMOP Genomic,Genetic Variation,S
+35950205,25158,Measurement,OMOP Genomic,Genetic Variation,S
+35960896,22652,Measurement,OMOP Genomic,Genetic Variation,S
+35959167,25220,Measurement,OMOP Genomic,Genetic Variation,S
+35959010,22564,Measurement,OMOP Genomic,Genetic Variation,S
+35957405,25205,Measurement,OMOP Genomic,Genetic Variation,S
+35952705,27234,Measurement,OMOP Genomic,Genetic Variation,S
+35961007,28125,Measurement,OMOP Genomic,Genetic Variation,S
+35955793,28149,Measurement,OMOP Genomic,Genetic Variation,S
+35954267,26204,Measurement,OMOP Genomic,Genetic Variation,S
+35962666,22219,Measurement,OMOP Genomic,Genetic Variation,S
+35952812,28556,Measurement,OMOP Genomic,Genetic Variation,S
+35958708,24128,Measurement,OMOP Genomic,Genetic Variation,S
+35961534,21614,Measurement,OMOP Genomic,Genetic Variation,S
+35948680,28643,Measurement,OMOP Genomic,Genetic Variation,S
+35954219,28611,Measurement,OMOP Genomic,Genetic Variation,S
+43243914,22106,Drug,BDPM,Ingredient,
+45416544,28542,Drug,Multum,Multum,
+45417634,26234,Drug,Multum,Multum,
+45412668,23208,Drug,Multum,Multum,
+45409181,27803,Drug,Multum,Multum,
+45412847,27182,Drug,Multum,Multum,
+45412667,23207,Drug,Multum,Multum,
+45417686,27072,Drug,Multum,Multum,
+45409089,26206,Drug,Multum,Multum,
+45410453,28561,Drug,Multum,Multum,
+45412669,23211,Drug,Multum,Multum,
+36013294,28408,Measurement,JAX,Variant,
+36767949,22553,Measurement,ClinVar,Variant,
+36013494,28411,Measurement,JAX,Variant,
+35976415,24143,Measurement,JAX,Variant,
+36014657,23201,Measurement,JAX,Variant,
+35975164,28582,Measurement,JAX,Variant,
+35970037,58227,Measurement,ClinVar,Variant,
+35966081,28567,Measurement,JAX,Variant,
+35972414,27642,Measurement,ClinVar,Variant,
+36013293,28407,Measurement,JAX,Variant,
+36015289,27525,Measurement,JAX,Variant,
+36765035,27771,Measurement,ClinVar,Variant,
+35975781,27539,Measurement,JAX,Variant,
+35966957,28569,Measurement,JAX,Variant,
+35970024,58182,Measurement,ClinVar,Variant,
+35966862,26224,Measurement,JAX,Variant,
+36016052,28442,Measurement,JAX,Variant,
+36017776,28467,Measurement,JAX,Variant,
+35814129,27721,Measurement,UK Biobank,Variable,
+35812149,25179,Measurement,UK Biobank,Variable,
+35813933,27525,Measurement,UK Biobank,Variable,
+35814172,27764,Measurement,UK Biobank,Variable,
+35812205,25235,Measurement,UK Biobank,Variable,
+35811669,22672,Measurement,UK Biobank,Variable,
+35812184,25214,Measurement,UK Biobank,Variable,
+35813955,27547,Measurement,UK Biobank,Variable,
+35813631,27223,Measurement,UK Biobank,Variable,
+35813923,27515,Measurement,UK Biobank,Variable,
+35812187,25217,Measurement,UK Biobank,Variable,
+35812167,25197,Measurement,UK Biobank,Variable,
+35813935,27527,Measurement,UK Biobank,Variable,
+35813476,27068,Measurement,UK Biobank,Variable,
+35812198,25228,Measurement,UK Biobank,Variable,
+35814171,27763,Measurement,UK Biobank,Variable,
+41970976,62683,Geography,OSM,6th level,S
+41960564,62402,Geography,OSM,6th level,S
+41961056,62543,Geography,OSM,6th level,S
+41960908,62382,Geography,OSM,6th level,S
+41961064,62616,Geography,OSM,6th level,S
+41960584,62693,Geography,OSM,6th level,S
+41961026,62405,Geography,OSM,6th level,S
+41960981,62708,Geography,OSM,6th level,S
+41960479,62470,Geography,OSM,6th level,S
+41970978,62665,Geography,OSM,6th level,S
+41960483,62531,Geography,OSM,6th level,S
+41960835,62447,Geography,OSM,6th level,S
+41960727,62633,Geography,OSM,6th level,S
+41960707,62556,Geography,OSM,6th level,S
+41960637,62417,Geography,OSM,6th level,S
+41947236,22223,Geography,OSM,8th level,S
+41996891,44963,Geography,OSM,8th level,S
+41937970,58198,Geography,OSM,8th level,S
+41997061,44951,Geography,OSM,8th level,S
+41995342,44977,Geography,OSM,8th level,S
+2000020101,22742,Drug,STANFORD_LPCH_DRUG,Undefined,
+2000056595,22745,Drug,STANFORD_SHC_DRUG,Undefined,
+42032808,47611,Geography,OSM,10th level,S
+35101734,28580,Drug,HemOnc,Brand Name,
+1000560,26225,Drug,RxNorm,Ingredient,S
+19003249,27793,Drug,RxNorm,Ingredient,S
+44619463,28134,Drug,DPD,Drug Product,
+35807195,44952,Drug,HemOnc,Component Class,C
+35806262,26218,Drug,HemOnc,Component Class,C
+35958704,28501,Measurement,OMOP Genomic,Genetic Variation,S
+35946335,23138,Measurement,OMOP Genomic,Genetic Variation,S
+35964344,26225,Measurement,OMOP Genomic,Genetic Variation,S
+35952864,28474,Measurement,OMOP Genomic,Genetic Variation,S
+35947814,28460,Measurement,OMOP Genomic,Genetic Variation,S
+35947717,25233,Measurement,OMOP Genomic,Genetic Variation,S
+35946787,28599,Measurement,OMOP Genomic,Genetic Variation,S
+35951966,25200,Measurement,OMOP Genomic,Genetic Variation,S
+35950871,25169,Measurement,OMOP Genomic,Genetic Variation,S
+35957056,23141,Measurement,OMOP Genomic,Genetic Variation,S
+35962778,28468,Measurement,OMOP Genomic,Genetic Variation,S
+35945858,28444,Measurement,OMOP Genomic,Genetic Variation,S
+35954529,25173,Measurement,OMOP Genomic,Genetic Variation,S
+35961043,25156,Measurement,OMOP Genomic,Genetic Variation,S
+35947976,28404,Measurement,OMOP Genomic,Genetic Variation,S
+35952438,21033,Measurement,OMOP Genomic,Genetic Variation,S
+35958050,28498,Measurement,OMOP Genomic,Genetic Variation,S
+35948867,28561,Measurement,OMOP Genomic,Genetic Variation,S
+35952544,25225,Measurement,OMOP Genomic,Genetic Variation,S
+35959648,27820,Measurement,OMOP Genomic,Genetic Variation,S
+35956745,26252,Measurement,OMOP Genomic,Genetic Variation,S
+35948145,28466,Measurement,OMOP Genomic,Genetic Variation,S
+43251422,26221,Drug,BDPM,Ingredient,
+43247584,28164,Drug,BDPM,Ingredient,
+45414066,27261,Drug,Multum,Multum,
+45414121,28131,Drug,Multum,Multum,
+45411703,28144,Drug,Multum,Multum,
+45415288,27796,Drug,Multum,Multum,
+45412888,27529,Drug,Multum,Multum,
+45417756,28459,Drug,Multum,Multum,
+45414075,27351,Drug,Multum,Multum,
+45416299,22700,Drug,Multum,Multum,
+45410217,22147,Drug,Multum,Multum,
+45411629,27074,Drug,Multum,Multum,
+45417635,26251,Drug,Multum,Multum,
+45416220,19268,Drug,Multum,Multum,
+45416546,28593,Drug,Multum,Multum,
+45416282,22211,Drug,Multum,Multum,
+36017779,28469,Measurement,JAX,Variant,
+36718956,28573,Measurement,ClinVar,Variant,
+35975197,23219,Measurement,JAX,Variant,
+36767832,22604,Measurement,ClinVar,Variant,
+36017786,28474,Measurement,JAX,Variant,
+36017053,28457,Measurement,JAX,Variant,
+36013483,23124,Measurement,JAX,Variant,
+36718983,28659,Measurement,ClinVar,Variant,
+36719493,28134,Measurement,ClinVar,Variant,
+36727431,27542,Measurement,JAX,Variant,
+36016605,27774,Measurement,JAX,Variant,
+36013446,23154,Measurement,JAX,Variant,
+35974744,27771,Measurement,JAX,Variant,
+36013791,28412,Measurement,JAX,Variant,
+36719821,28638,Measurement,ClinVar,Variant,
+36012568,23188,Measurement,JAX,Variant,
+35811807,23206,Measurement,UK Biobank,Variable,
+35811798,23128,Measurement,UK Biobank,Variable,
+35814163,27755,Measurement,UK Biobank,Variable,
+35811455,21621,Observation,UK Biobank,Variable,
+35812192,25222,Measurement,UK Biobank,Variable,
+35814131,27723,Measurement,UK Biobank,Variable,
+35813650,27242,Measurement,UK Biobank,Variable,
+35813759,27351,Measurement,UK Biobank,Variable,
+41960699,62561,Geography,OSM,6th level,S
+41960957,62734,Geography,OSM,6th level,S
+41960447,62747,Geography,OSM,6th level,S
+41970971,62681,Geography,OSM,6th level,S
+41961051,62743,Geography,OSM,6th level,S
+41960770,62498,Geography,OSM,6th level,S
+41960977,62409,Geography,OSM,6th level,S
+41960468,62508,Geography,OSM,6th level,S
+41960550,62674,Geography,OSM,6th level,S
+41960771,62657,Geography,OSM,6th level,S
+41960784,62643,Geography,OSM,6th level,S
+41960836,62466,Geography,OSM,6th level,S
+41960698,62597,Geography,OSM,6th level,S
+41960741,62550,Geography,OSM,6th level,S
+41960480,62559,Geography,OSM,6th level,S
+41960693,62601,Geography,OSM,6th level,S
+41960888,62491,Geography,OSM,6th level,S
+41960898,62649,Geography,OSM,6th level,S
+41960774,62585,Geography,OSM,6th level,S
+41962732,58213,Geography,OSM,8th level,S
+41956682,58207,Geography,OSM,8th level,S
+41997928,44159,Geography,OSM,8th level,S
+41957587,63217,Geography,OSM,8th level,S
+41947290,58175,Geography,OSM,8th level,S
+41997860,44956,Geography,OSM,8th level,S
+2000057746,28170,Drug,STANFORD_SHC_DRUG,Undefined,
+41993168,63059,Geography,OSM,10th level,S
+35806010,24129,Drug,HemOnc,Brand Name,
+35806255,26208,Drug,HemOnc,Brand Name,
+35101739,27833,Drug,HemOnc,Brand Name,
+35806253,26206,Drug,HemOnc,Brand Name,
+35806004,24123,Drug,HemOnc,Brand Name,
+43235963,22692,Drug,BDPM,Ingredient,
+43236105,28664,Drug,BDPM,Ingredient,
+43048949,62726,Drug,BDPM,Ingredient,
+43232276,62595,Drug,BDPM,Ingredient,
+43247691,47604,Drug,BDPM,Ingredient,
+44592154,27529,Drug,DPD,Drug Product,
+44568371,26212,Drug,DPD,Drug Product,
+35807258,45134,Drug,HemOnc,Component Class,C
+912164,58247,Drug,HemOnc,Component Class,C
+35956962,28673,Measurement,OMOP Genomic,Genetic Variation,S
+35947232,28533,Measurement,OMOP Genomic,Genetic Variation,S
+35962909,25154,Measurement,OMOP Genomic,Genetic Variation,S
+35951227,25180,Measurement,OMOP Genomic,Genetic Variation,S
+35945447,21604,Measurement,OMOP Genomic,Genetic Variation,S
+35950922,23199,Measurement,OMOP Genomic,Genetic Variation,S
+35954268,28462,Measurement,OMOP Genomic,Genetic Variation,S
+35960718,26257,Measurement,OMOP Genomic,Genetic Variation,S
+35950714,23194,Measurement,OMOP Genomic,Genetic Variation,S
+35959652,27753,Measurement,OMOP Genomic,Genetic Variation,S
+35950077,28572,Measurement,OMOP Genomic,Genetic Variation,S
+35954643,28672,Measurement,OMOP Genomic,Genetic Variation,S
+35957818,24143,Measurement,OMOP Genomic,Genetic Variation,S
+35947603,28618,Measurement,OMOP Genomic,Genetic Variation,S
+35951464,28441,Measurement,OMOP Genomic,Genetic Variation,S
+35955525,25192,Measurement,OMOP Genomic,Genetic Variation,S
+35950612,25164,Measurement,OMOP Genomic,Genetic Variation,S
+35959707,28135,Measurement,OMOP Genomic,Genetic Variation,S
+35956031,25172,Measurement,OMOP Genomic,Genetic Variation,S
+35956986,25123,Measurement,OMOP Genomic,Genetic Variation,S
+35962238,28459,Measurement,OMOP Genomic,Genetic Variation,S
+35949262,21036,Measurement,OMOP Genomic,Genetic Variation,S
+43224389,62904,Drug,BDPM,Ingredient,
+43247871,23185,Drug,BDPM,Ingredient,
+35807202,44961,Drug,HemOnc,Component Class,
+45411582,26258,Drug,Multum,Multum,
+45417744,28129,Drug,Multum,Multum,
+45414142,28648,Drug,Multum,Multum,
+45414120,28128,Drug,Multum,Multum,
+45413990,26252,Drug,Multum,Multum,
+45411464,23201,Drug,Multum,Multum,
+45412799,26259,Drug,Multum,Multum,
+45412855,27251,Drug,Multum,Multum,
+35806335,27774,Regimen,HemOnc,Regimen,S
+35806333,27755,Regimen,HemOnc,Regimen,S
+35101481,47455,Regimen,HemOnc,Regimen,S
+35970014,58153,Measurement,ClinVar,Variant,
+36767841,23194,Measurement,ClinVar,Variant,
+36719230,27537,Measurement,ClinVar,Variant,
+35968021,23215,Measurement,JAX,Variant,
+36727129,27764,Measurement,JAX,Variant,
+35970048,58288,Measurement,ClinVar,Variant,
+36719915,22647,Measurement,ClinVar,Variant,
+36015252,33520,Measurement,JAX,Variant,
+36017565,23204,Measurement,JAX,Variant,
+35967446,21625,Measurement,JAX,Variant,
+35966263,28134,Measurement,JAX,Variant,
+36017048,28452,Measurement,JAX,Variant,
+36719508,23215,Measurement,ClinVar,Variant,
+35976408,27806,Measurement,JAX,Variant,
+36719882,27541,Measurement,ClinVar,Variant,
+36013003,23123,Measurement,JAX,Variant,
+36013296,28410,Measurement,JAX,Variant,
+35969952,28127,Measurement,ClinVar,Variant,
+35976525,28573,Measurement,JAX,Variant,
+35811632,22605,Observation,UK Biobank,Question,
+35812123,25153,Measurement,UK Biobank,Variable,
+35812182,25212,Measurement,UK Biobank,Variable,
+35812179,25209,Measurement,UK Biobank,Variable,
+35812203,25233,Measurement,UK Biobank,Variable,
+35813760,27352,Measurement,UK Biobank,Variable,
+35812141,25171,Measurement,UK Biobank,Variable,
+35813969,27561,Measurement,UK Biobank,Variable,
+35812193,25223,Measurement,UK Biobank,Variable,
+35812142,25172,Measurement,UK Biobank,Variable,
+35812165,25195,Measurement,UK Biobank,Variable,
+35813482,27074,Measurement,UK Biobank,Variable,
+35811812,23211,Measurement,UK Biobank,Variable,
+35813767,27359,Measurement,UK Biobank,Variable,
+35812162,25192,Measurement,UK Biobank,Variable,
+35812208,25238,Measurement,UK Biobank,Variable,
+35811459,21631,Observation,UK Biobank,Variable,
+41960788,62404,Geography,OSM,6th level,S
+41960516,62584,Geography,OSM,6th level,S
+41970961,62445,Geography,OSM,6th level,S
+41960686,62668,Geography,OSM,6th level,S
+41960731,62700,Geography,OSM,6th level,S
+41960583,62381,Geography,OSM,6th level,S
+41960773,62515,Geography,OSM,6th level,S
+41960914,62410,Geography,OSM,6th level,S
+41970962,62523,Geography,OSM,6th level,S
+41960245,62384,Geography,OSM,6th level,S
+41961034,62659,Geography,OSM,6th level,S
+41960675,62497,Geography,OSM,6th level,S
+41960555,62396,Geography,OSM,6th level,S
+41961008,62746,Geography,OSM,6th level,S
+41961005,62412,Geography,OSM,6th level,S
+42032249,47619,Geography,OSM,8th level,S
+41943641,63216,Geography,OSM,8th level,S
+2000056593,22744,Drug,STANFORD_SHC_DRUG,Undefined,
+2000057729,27225,Drug,STANFORD_SHC_DRUG,Undefined,
+2000056605,22764,Drug,STANFORD_SHC_DRUG,Undefined,
+2000020152,27797,Drug,STANFORD_LPCH_DRUG,Undefined,
+35806647,33520,Drug,HemOnc,Brand Name,
+912110,27794,Drug,HemOnc,Brand Name,
+35806248,26201,Drug,HemOnc,Brand Name,
+988294,22701,Drug,RxNorm,Ingredient,S
+43046778,28519,Drug,BDPM,Ingredient,
+35807207,44972,Drug,HemOnc,Component Class,C
+35807256,45129,Drug,HemOnc,Component Class,C
+35962259,25161,Measurement,OMOP Genomic,Genetic Variation,S
+35945685,25223,Measurement,OMOP Genomic,Genetic Variation,S
+35948737,26220,Measurement,OMOP Genomic,Genetic Variation,S
+35963860,28591,Measurement,OMOP Genomic,Genetic Variation,S
+35958361,21039,Measurement,OMOP Genomic,Genetic Variation,S
+35963058,25121,Measurement,OMOP Genomic,Genetic Variation,S
+35963264,23218,Measurement,OMOP Genomic,Genetic Variation,S
+35947200,28521,Measurement,OMOP Genomic,Genetic Variation,S
+35955505,28513,Measurement,OMOP Genomic,Genetic Variation,S
+35947109,21621,Measurement,OMOP Genomic,Genetic Variation,S
+35956827,28443,Measurement,OMOP Genomic,Genetic Variation,S
+35956128,21042,Measurement,OMOP Genomic,Genetic Variation,S
+35946099,22213,Measurement,OMOP Genomic,Genetic Variation,S
+35946165,28566,Measurement,OMOP Genomic,Genetic Variation,S
+35952096,26213,Measurement,OMOP Genomic,Genetic Variation,S
+35957924,33529,Measurement,OMOP Genomic,Genetic Variation,S
+35946628,28659,Measurement,OMOP Genomic,Genetic Variation,S
+35954062,28642,Measurement,OMOP Genomic,Genetic Variation,S
+35951357,28652,Measurement,OMOP Genomic,Genetic Variation,S
+35947850,28639,Measurement,OMOP Genomic,Genetic Variation,S
+35951985,28154,Measurement,OMOP Genomic,Genetic Variation,S
+19064639,25188,Drug,RxNorm,Precise Ingredient,
+43232083,62835,Drug,BDPM,Ingredient,
+19096681,25199,Drug,RxNorm,Brand Name,
+45416422,26222,Drug,Multum,Multum,
+45409215,28652,Drug,Multum,Multum,
+45417757,28550,Drug,Multum,Multum,
+45413849,23203,Drug,Multum,Multum,
+45409211,28566,Drug,Multum,Multum,
+45412584,19270,Drug,Multum,Multum,
+905767,62485,Regimen,HemOnc,Regimen,S
+35805807,22609,Regimen,HemOnc,Regimen,S
+35805806,22553,Regimen,HemOnc,Regimen,S
+36016004,28438,Measurement,JAX,Variant,
+36015005,27820,Measurement,ClinVar,Variant,
+36013295,28409,Measurement,JAX,Variant,
+35967618,27523,Measurement,JAX,Variant,
+35976403,27545,Measurement,JAX,Variant,
+35976240,27778,Measurement,JAX,Variant,
+35970029,58208,Measurement,ClinVar,Variant,
+35966268,25166,Measurement,JAX,Variant,
+35974995,27533,Measurement,JAX,Variant,
+35975342,25169,Measurement,JAX,Variant,
+36719232,27523,Measurement,ClinVar,Variant,
+36011707,25192,Measurement,JAX,Variant,
+36017049,28453,Measurement,JAX,Variant,
+36010423,23142,Measurement,JAX,Variant,
+35965303,23206,Measurement,JAX,Variant,
+36017698,22564,Measurement,JAX,Variant,
+36736005,22736,Measurement,ClinVar,Variant,
+36017033,23136,Measurement,JAX,Variant,
+35966860,26257,Measurement,JAX,Variant,
+36013851,23199,Measurement,JAX,Variant,
+36719197,28526,Measurement,ClinVar,Variant,
+36718938,25167,Measurement,ClinVar,Variant,
+35965411,25155,Measurement,JAX,Variant,
+36718655,27554,Measurement,JAX,Variant,
+36017047,28451,Measurement,JAX,Variant,
+35976436,21028,Measurement,JAX,Variant,
+35972022,27563,Measurement,ClinVar,Variant,
+36016029,27526,Measurement,JAX,Variant,
+35811629,22602,Observation,UK Biobank,Question,
+35811649,22631,Observation,UK Biobank,Question,
+35811414,21037,Observation,UK Biobank,Question,S
+35812186,25216,Measurement,UK Biobank,Variable,
+35811809,23208,Measurement,UK Biobank,Variable,
+35812133,25163,Measurement,UK Biobank,Variable,
+35812102,25132,Measurement,UK Biobank,Variable,
+35812196,25226,Measurement,UK Biobank,Variable,
+35811815,23214,Measurement,UK Biobank,Variable,
+35812188,25218,Measurement,UK Biobank,Variable,
+35812174,25204,Measurement,UK Biobank,Variable,
+35812099,25129,Measurement,UK Biobank,Variable,
+35813957,27549,Measurement,UK Biobank,Variable,
+35813761,27353,Measurement,UK Biobank,Variable,
+35811818,23216,Measurement,UK Biobank,Variable,
+35811461,21633,Observation,UK Biobank,Variable,
+35813945,27537,Measurement,UK Biobank,Variable,
+41970940,62761,Geography,OSM,4th level,S
+42021537,47608,Geography,OSM,4th level,S
+41970933,62422,Geography,OSM,4th level,S
+41960677,62454,Geography,OSM,6th level,S
+41961044,62534,Geography,OSM,6th level,S
+41960806,62613,Geography,OSM,6th level,S
+41970967,62671,Geography,OSM,6th level,S
+41960717,62540,Geography,OSM,6th level,S
+41960730,62773,Geography,OSM,6th level,S
+41960446,62772,Geography,OSM,6th level,S
+41960886,62397,Geography,OSM,6th level,S
+41960868,62666,Geography,OSM,6th level,S
+41960989,62642,Geography,OSM,6th level,S
+41960525,62713,Geography,OSM,6th level,S
+41961047,62699,Geography,OSM,6th level,S
+41960756,62510,Geography,OSM,6th level,S
+41961028,62431,Geography,OSM,6th level,S
+41960906,62694,Geography,OSM,6th level,S
+41964418,63220,Geography,OSM,8th level,S
+41935951,56325,Geography,OSM,8th level,S
+41954464,58177,Geography,OSM,8th level,S
+41999235,45118,Geography,OSM,8th level,S
+41961697,56328,Geography,OSM,8th level,S
+42032283,47609,Geography,OSM,8th level,S
+2000020154,27801,Drug,STANFORD_LPCH_DRUG,Undefined,
+2000057752,28554,Drug,STANFORD_SHC_DRUG,Undefined,
+35806000,24119,Drug,HemOnc,Brand Name,
+35101484,47445,Drug,HemOnc,Brand Name,
+19071651,28486,Drug,RxNorm,Ingredient,S
+19058572,47613,Drug,RxNorm,Ingredient,S
+43243748,62454,Drug,BDPM,Ingredient,
+44619602,27561,Drug,DPD,Drug Product,
+44585662,27359,Drug,DPD,Drug Product,
+35807194,44951,Drug,HemOnc,Component Class,C
+35807203,44963,Drug,HemOnc,Component Class,C
+35807206,44971,Drug,HemOnc,Component Class,C
+35954736,28628,Measurement,OMOP Genomic,Genetic Variation,S
+35958179,28524,Measurement,OMOP Genomic,Genetic Variation,S
+35954000,23212,Measurement,OMOP Genomic,Genetic Variation,S
+35964154,28494,Measurement,OMOP Genomic,Genetic Variation,S
+35947268,33520,Measurement,OMOP Genomic,Genetic Variation,S
+35954704,22146,Measurement,OMOP Genomic,Genetic Variation,S
+35956781,26244,Measurement,OMOP Genomic,Genetic Variation,S
+35951119,23188,Measurement,OMOP Genomic,Genetic Variation,S
+35952241,28174,Measurement,OMOP Genomic,Genetic Variation,S
+35959882,25238,Measurement,OMOP Genomic,Genetic Variation,S
+35954365,28166,Measurement,OMOP Genomic,Genetic Variation,S
+35948595,44159,Measurement,OMOP Genomic,Genetic Variation,S
+35962445,28631,Measurement,OMOP Genomic,Genetic Variation,S
+35945847,28653,Measurement,OMOP Genomic,Genetic Variation,S
+35963511,21608,Measurement,OMOP Genomic,Genetic Variation,S
+35956040,28431,Measurement,OMOP Genomic,Genetic Variation,S
+19054482,22694,Drug,RxNorm,Precise Ingredient,
+40049569,27821,Drug,RxNorm,Ingredient,
+43232383,22788,Drug,BDPM,Ingredient,
+43243908,63203,Drug,BDPM,Ingredient,
+43247471,28169,Drug,BDPM,Ingredient,
+45412919,28438,Drug,Multum,Multum,
+45415257,27247,Drug,Multum,Multum,
+45411668,27548,Drug,Multum,Multum,
+45415311,28409,Drug,Multum,Multum,
+45414140,28616,Drug,Multum,Multum,
+45409178,27721,Drug,Multum,Multum,
+45415301,28147,Drug,Multum,Multum,
+45417720,27554,Drug,Multum,Multum,
+45412658,22658,Drug,Multum,Multum,
+45416547,28594,Drug,Multum,Multum,
+45417543,23202,Drug,Multum,Multum,
+45414122,28132,Drug,Multum,Multum,
+45411650,27249,Drug,Multum,Multum,
+45413829,22649,Drug,Multum,Multum,
+35805809,22617,Regimen,HemOnc,Regimen,S
+35806336,27789,Regimen,HemOnc,Regimen,S
+35806355,28154,Regimen,HemOnc,Regimen,S
+35806264,26237,Regimen,HemOnc,Regimen,S
+905703,58161,Regimen,HemOnc,Regimen,S
+36015336,28432,Measurement,JAX,Variant,
+35967988,26221,Measurement,JAX,Variant,
+35966661,25121,Measurement,JAX,Variant,
+36017568,28459,Measurement,JAX,Variant,
+36017574,28460,Measurement,JAX,Variant,
+35974795,26223,Measurement,JAX,Variant,
+36015309,23217,Measurement,JAX,Variant,
+36017773,28464,Measurement,JAX,Variant,
+35967453,22591,Measurement,JAX,Variant,
+36720516,23219,Measurement,ClinVar,Variant,
+36720451,22115,Measurement,ClinVar,Variant,
+36012910,28674,Measurement,JAX,Variant,
+36016984,28448,Measurement,JAX,Variant,
+35970052,58253,Measurement,ClinVar,Variant,
+35974401,25157,Measurement,JAX,Variant,
+36738019,28591,Measurement,JAX,Variant,
+36016228,23149,Measurement,JAX,Variant,
+35974249,27801,Measurement,JAX,Variant,
+36718934,25157,Measurement,ClinVar,Variant,
+36015327,28426,Measurement,JAX,Variant,
+36721992,28133,Measurement,JAX,Variant,
+36017824,28492,Measurement,JAX,Variant,
+36017054,28458,Measurement,JAX,Variant,
+35965508,23183,Measurement,JAX,Variant,
+35813926,27518,Measurement,UK Biobank,Variable,
+35813632,27224,Measurement,UK Biobank,Variable,
+35813477,27069,Measurement,UK Biobank,Variable,
+35811685,22701,Observation,UK Biobank,Variable,
+35813931,27523,Measurement,UK Biobank,Variable,
+35813639,27231,Measurement,UK Biobank,Variable,
+35811682,22685,Observation,UK Biobank,Variable,S
+35811806,23205,Measurement,UK Biobank,Variable,
+35812124,25154,Measurement,UK Biobank,Variable,
+35812153,25183,Measurement,UK Biobank,Variable,
+35812137,25167,Measurement,UK Biobank,Variable,
+35811794,23124,Measurement,UK Biobank,Variable,
+35814052,27644,Measurement,UK Biobank,Variable,
+35812197,25227,Measurement,UK Biobank,Variable,
+35811799,23129,Measurement,UK Biobank,Variable,
+35811793,23123,Measurement,UK Biobank,Variable,
+35811804,23203,Measurement,UK Biobank,Variable,
+35811676,22679,Measurement,UK Biobank,Variable,
+35812122,25152,Measurement,UK Biobank,Variable,
+41960664,62623,Geography,OSM,6th level,S
+41960688,62679,Geography,OSM,6th level,S
+41960585,62477,Geography,OSM,6th level,S
+41960449,62609,Geography,OSM,6th level,S
+41960999,62738,Geography,OSM,6th level,S
+41960484,62639,Geography,OSM,6th level,S
+41960812,62399,Geography,OSM,6th level,S
+41960603,62606,Geography,OSM,6th level,S
+41960517,62745,Geography,OSM,6th level,S
+42002124,44972,Geography,OSM,8th level,S
+41890609,58258,Geography,OSM,8th level,S
+41890820,58248,Geography,OSM,8th level,S
+35806002,24121,Drug,HemOnc,Brand Name,
+19096669,25162,Drug,RxNorm,Brand Name,
+35805998,24117,Drug,HemOnc,Brand Name,
+35806008,24127,Drug,HemOnc,Brand Name,
+35101740,27798,Drug,HemOnc,Brand Name,
+43236305,22748,Drug,BDPM,Ingredient,
+43251513,22650,Drug,BDPM,Ingredient,
+19058867,47618,Drug,RxNorm,Ingredient,S
+19088393,22713,Drug,RxNorm,Ingredient,S
+35961327,28158,Measurement,OMOP Genomic,Genetic Variation,S
+35962623,28121,Measurement,OMOP Genomic,Genetic Variation,S
+35947378,19267,Measurement,OMOP Genomic,Genetic Variation,S
+35949186,25239,Measurement,OMOP Genomic,Genetic Variation,S
+35960355,28536,Measurement,OMOP Genomic,Genetic Variation,S
+35949261,24124,Measurement,OMOP Genomic,Genetic Variation,S
+35947483,22209,Measurement,OMOP Genomic,Genetic Variation,S
+35960559,28492,Measurement,OMOP Genomic,Genetic Variation,S
+35960560,28664,Measurement,OMOP Genomic,Genetic Variation,S
+35956653,25181,Measurement,OMOP Genomic,Genetic Variation,S
+35959005,26234,Measurement,OMOP Genomic,Genetic Variation,S
+35953499,24148,Measurement,OMOP Genomic,Genetic Variation,S
+35951426,26228,Measurement,OMOP Genomic,Genetic Variation,S
+35950085,25214,Measurement,OMOP Genomic,Genetic Variation,S
+35952807,28429,Measurement,OMOP Genomic,Genetic Variation,S
+35954897,28559,Measurement,OMOP Genomic,Genetic Variation,S
+35964184,19264,Measurement,OMOP Genomic,Genetic Variation,S
+35946349,28509,Measurement,OMOP Genomic,Genetic Variation,S
+35953990,26206,Measurement,OMOP Genomic,Genetic Variation,S
+35948772,22785,Measurement,OMOP Genomic,Genetic Variation,S
+35950775,25155,Measurement,OMOP Genomic,Genetic Variation,S
+43224527,22787,Drug,BDPM,Ingredient,
+43224466,28159,Drug,BDPM,Ingredient,
+45412921,28443,Drug,Multum,Multum,
+45411667,27534,Drug,Multum,Multum,
+45414136,28562,Drug,Multum,Multum,
+45411712,28442,Drug,Multum,Multum,
+45411529,25154,Drug,Multum,Multum,
+45410234,23199,Drug,Multum,Multum,
+45409175,27636,Drug,Multum,Multum,
+45416500,27505,Drug,Multum,Multum,
+45416517,27804,Drug,Multum,Multum,
+45412794,26204,Drug,Multum,Multum,
+42542354,47628,Regimen,HemOnc,Regimen,S
+35805028,15921,Regimen,HemOnc,Regimen,S
+35806364,28567,Regimen,HemOnc,Regimen,S
+35805808,22616,Regimen,HemOnc,Regimen,S
+36013909,22611,Measurement,JAX,Variant,
+36719866,27804,Measurement,ClinVar,Variant,
+35975687,28157,Measurement,JAX,Variant,
+35967174,25124,Measurement,JAX,Variant,
+36017818,28486,Measurement,JAX,Variant,
+36013289,28403,Measurement,JAX,Variant,
+35975196,23218,Measurement,JAX,Variant,
+36725142,27761,Measurement,JAX,Variant,
+36763360,28131,Measurement,JAX,Variant,
+36012908,28673,Measurement,JAX,Variant,
+36013886,27515,Measurement,JAX,Variant,
+36720739,28127,Measurement,JAX,Variant,
+36013888,28416,Measurement,JAX,Variant,
+36015335,28431,Measurement,JAX,Variant,
+35966724,23122,Measurement,JAX,Variant,
+35970036,58222,Measurement,ClinVar,Variant,
+35975779,28581,Measurement,JAX,Variant,
+35971535,27542,Measurement,ClinVar,Variant,
+36013448,23192,Measurement,JAX,Variant,
+36719227,27533,Measurement,ClinVar,Variant,
+36017017,27776,Measurement,JAX,Variant,
+35976373,28568,Measurement,JAX,Variant,
+36017558,27546,Measurement,JAX,Variant,
+35811626,22599,Observation,UK Biobank,Question,
+35811655,22645,Observation,UK Biobank,Question,S
+35811405,21028,Observation,UK Biobank,Question,S
+35814180,27772,Measurement,UK Biobank,Variable,
+35812147,25177,Measurement,UK Biobank,Variable,
+35811808,23207,Measurement,UK Biobank,Variable,
+35811686,22702,Observation,UK Biobank,Variable,
+35812190,25220,Measurement,UK Biobank,Variable,
+35812093,25123,Measurement,UK Biobank,Variable,
+35812097,25127,Measurement,UK Biobank,Variable,
+35811674,22677,Measurement,UK Biobank,Variable,
+42021526,47407,Geography,OSM,4th level,S
+41970937,62650,Geography,OSM,4th level,S
+41960644,62440,Geography,OSM,6th level,S
+41960747,62429,Geography,OSM,6th level,S
+41960810,62673,Geography,OSM,6th level,S
+41960604,62779,Geography,OSM,6th level,S
+41960738,62669,Geography,OSM,6th level,S
+41960944,62780,Geography,OSM,6th level,S
+41960509,62737,Geography,OSM,6th level,S
+41960710,62426,Geography,OSM,6th level,S
+41960752,62637,Geography,OSM,6th level,S
+41960825,62739,Geography,OSM,6th level,S
+41960490,62430,Geography,OSM,6th level,S
+41960840,62686,Geography,OSM,6th level,S
+41960866,62682,Geography,OSM,6th level,S
+41961018,62577,Geography,OSM,6th level,S
+41960837,62762,Geography,OSM,6th level,S
+41961074,62453,Geography,OSM,6th level,S
+41960882,62716,Geography,OSM,6th level,S
+41961071,62444,Geography,OSM,6th level,S
+41960663,62391,Geography,OSM,6th level,S
+41960534,62499,Geography,OSM,6th level,S
+41970955,62562,Geography,OSM,6th level,S
+42003247,44962,Geography,OSM,8th level,S
+42542285,28569,Condition,HemOnc,Condition,
+2000020176,28534,Drug,STANFORD_LPCH_DRUG,Undefined,
+35806366,28577,Drug,HemOnc,Brand Name,
+19003144,27721,Drug,RxNorm,Brand Name,
+35101486,47442,Drug,HemOnc,Brand Name,
+35806003,24122,Drug,HemOnc,Brand Name,
+1188114,22697,Drug,RxNorm,Ingredient,S
+19058978,47628,Drug,RxNorm,Ingredient,S
+19088340,22708,Drug,RxNorm,Ingredient,S
+35807201,44959,Drug,HemOnc,Component Class,C
+35952204,28161,Measurement,OMOP Genomic,Genetic Variation,S
+35945865,25167,Measurement,OMOP Genomic,Genetic Variation,S
+35959048,27639,Measurement,OMOP Genomic,Genetic Variation,S
+35948082,28574,Measurement,OMOP Genomic,Genetic Variation,S
+35962080,25194,Measurement,OMOP Genomic,Genetic Variation,S
+35952797,25178,Measurement,OMOP Genomic,Genetic Variation,S
+35957966,28527,Measurement,OMOP Genomic,Genetic Variation,S
+35961867,28563,Measurement,OMOP Genomic,Genetic Variation,S
+35952427,28557,Measurement,OMOP Genomic,Genetic Variation,S
+35959128,24121,Measurement,OMOP Genomic,Genetic Variation,S
+35949824,28486,Measurement,OMOP Genomic,Genetic Variation,S
+35947914,28520,Measurement,OMOP Genomic,Genetic Variation,S
+35956228,28648,Measurement,OMOP Genomic,Genetic Variation,S
+35949676,22215,Measurement,OMOP Genomic,Genetic Variation,S
+35955410,28497,Measurement,OMOP Genomic,Genetic Variation,S
+35951000,28578,Measurement,OMOP Genomic,Genetic Variation,S
+19052751,22537,Drug,RxNorm,Precise Ingredient,
+43228506,63187,Drug,BDPM,Ingredient,
+43236179,62690,Drug,BDPM,Ingredient,
+45410458,28612,Drug,Multum,Multum,
+45410415,27565,Drug,Multum,Multum,
+45417761,28673,Drug,Multum,Multum,
+45412659,22754,Drug,Multum,Multum,
+45413836,22755,Drug,Multum,Multum,
+35806318,27563,Regimen,HemOnc,Regimen,S
+1524893,25237,Regimen,HemOnc,Regimen,S
+35972408,27644,Measurement,ClinVar,Variant,
+35968017,23213,Measurement,JAX,Variant,
+36013505,23196,Measurement,JAX,Variant,
+36017749,28493,Measurement,JAX,Variant,
+36017816,28484,Measurement,JAX,Variant,
+35966230,28658,Measurement,JAX,Variant,
+36718954,28569,Measurement,ClinVar,Variant,
+35967620,23198,Measurement,JAX,Variant,
+36720423,28633,Measurement,ClinVar,Variant,
+36015331,28429,Measurement,JAX,Variant,
+36011654,23181,Measurement,JAX,Variant,
+36767871,26233,Measurement,ClinVar,Variant,
+36017813,28481,Measurement,JAX,Variant,
+35975785,24123,Measurement,JAX,Variant,
+35967778,23211,Measurement,JAX,Variant,
+36013449,23193,Measurement,JAX,Variant,
+36719881,27544,Measurement,ClinVar,Variant,
+36719228,27539,Measurement,ClinVar,Variant,
+35976212,22639,Measurement,JAX,Variant,
+35975588,28526,Measurement,JAX,Variant,
+35967149,25167,Measurement,JAX,Variant,
+35811647,22620,Observation,UK Biobank,Question,S
+35811420,21043,Observation,UK Biobank,Question,
+35811670,22673,Measurement,UK Biobank,Variable,
+35813480,27072,Measurement,UK Biobank,Variable,
+35812126,25156,Measurement,UK Biobank,Variable,
+35812194,25224,Measurement,UK Biobank,Variable,
+35813671,27263,Measurement,UK Biobank,Variable,
+35812206,25236,Measurement,UK Biobank,Variable,
+35811810,23209,Measurement,UK Biobank,Variable,
+35812199,25229,Measurement,UK Biobank,Variable,
+35812152,25182,Measurement,UK Biobank,Variable,
+35812195,25225,Measurement,UK Biobank,Variable,
+35812201,25231,Measurement,UK Biobank,Variable,
+35813949,27541,Measurement,UK Biobank,Variable,
+35812144,25174,Measurement,UK Biobank,Variable,
+35813953,27545,Measurement,UK Biobank,Variable,
+35811644,22617,Observation,UK Biobank,Variable,
+35811817,23215,Measurement,UK Biobank,Variable,
+41960518,62403,Geography,OSM,6th level,S
+41960513,62539,Geography,OSM,6th level,S
+41960593,62598,Geography,OSM,6th level,S
+41960565,62566,Geography,OSM,6th level,S
+41960896,62434,Geography,OSM,6th level,S
+41960627,62767,Geography,OSM,6th level,S
+41960782,62632,Geography,OSM,6th level,S
+41960894,62465,Geography,OSM,6th level,S
+41960592,62518,Geography,OSM,6th level,S
+41960976,62695,Geography,OSM,6th level,S
+41960634,62423,Geography,OSM,6th level,S
+41970965,62778,Geography,OSM,6th level,S
+41960639,62437,Geography,OSM,6th level,S
+41960912,62590,Geography,OSM,6th level,S
+41960444,62492,Geography,OSM,6th level,S
+41960854,62653,Geography,OSM,6th level,S
+41960766,62603,Geography,OSM,6th level,S
+41960733,62595,Geography,OSM,6th level,S
+41961020,62544,Geography,OSM,6th level,S
+41960772,62567,Geography,OSM,6th level,S
+41960802,62469,Geography,OSM,6th level,S
+41890924,58264,Geography,OSM,8th level,S
+41996499,44142,Geography,OSM,8th level,S
+41943766,62702,Geography,OSM,8th level,S
+41980083,62392,Geography,OSM,8th level,S
+41996679,44966,Geography,OSM,8th level,S
+42003235,44975,Geography,OSM,8th level,S
+2000057101,23194,Drug,STANFORD_SHC_DRUG,Undefined,
+2000056584,22741,Drug,STANFORD_SHC_DRUG,Undefined,
+35806254,26207,Drug,HemOnc,Brand Name,
+35806029,24148,Drug,HemOnc,Brand Name,
+35101488,47431,Drug,HemOnc,Brand Name,
+19003943,28166,Drug,RxNorm,Brand Name,
+35422359,44961,Drug,BDPM,Ingredient,
+19064698,25193,Drug,RxNorm,Ingredient,S
+44592020,26220,Drug,DPD,Drug Product,
+44644844,27243,Drug,DPD,Drug Product,
+35961775,28464,Measurement,OMOP Genomic,Genetic Variation,S
+35960640,29853,Measurement,OMOP Genomic,Genetic Variation,S
+35951290,23148,Measurement,OMOP Genomic,Genetic Variation,S
+35959678,26208,Measurement,OMOP Genomic,Genetic Variation,S
+35948746,28637,Measurement,OMOP Genomic,Genetic Variation,S
+35959208,28164,Measurement,OMOP Genomic,Genetic Variation,S
+35954209,28143,Measurement,OMOP Genomic,Genetic Variation,S
+35963882,21605,Measurement,OMOP Genomic,Genetic Variation,S
+35954977,25195,Measurement,OMOP Genomic,Genetic Variation,S
+35949845,28507,Measurement,OMOP Genomic,Genetic Variation,S
+35961916,28565,Measurement,OMOP Genomic,Genetic Variation,S
+35960004,28573,Measurement,OMOP Genomic,Genetic Variation,S
+35952655,27815,Measurement,OMOP Genomic,Genetic Variation,S
+35961963,28127,Measurement,OMOP Genomic,Genetic Variation,S
+35956213,26238,Measurement,OMOP Genomic,Genetic Variation,S
+35950984,26226,Measurement,OMOP Genomic,Genetic Variation,S
+35945765,28491,Measurement,OMOP Genomic,Genetic Variation,S
+35953287,28601,Measurement,OMOP Genomic,Genetic Variation,S
+35960798,24144,Measurement,OMOP Genomic,Genetic Variation,S
+35954782,25186,Measurement,OMOP Genomic,Genetic Variation,S
+35949730,26217,Measurement,OMOP Genomic,Genetic Variation,S
+35960611,49508,Measurement,OMOP Genomic,Genetic Variation,S
+35954824,28156,Measurement,OMOP Genomic,Genetic Variation,S
+35959502,28172,Measurement,OMOP Genomic,Genetic Variation,S
+35953475,26221,Measurement,OMOP Genomic,Genetic Variation,S
+35962211,28669,Measurement,OMOP Genomic,Genetic Variation,S
+35963887,19261,Measurement,OMOP Genomic,Genetic Variation,S
+43236103,27186,Drug,BDPM,Ingredient,
