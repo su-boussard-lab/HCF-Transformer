@@ -88,6 +88,9 @@ Before running this stage,  you may want to move the previous prediction output 
 ### 7. Optimal opioid analysis:
 After running Stage 6, the model prediction outputs are generated in for expanded test in the `outputs/csv/` directory. To analyze and plot the optimal discharge opioids, run all the script in `analyzeOptimalOpioid.R` 
 
+## License
+HCF-Transformer is licensed under Apache License 2.0.
+
 ## Support
 Please contact Dr. Naderalvojoud at behzad@stanford.edu
 
