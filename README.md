@@ -14,7 +14,7 @@ In this study, we propose a novel predictive model that determines the most opti
 - [Surgery types and codes](): codes/surgery_codes_for_pull_fin.csv
 - [Opioid-related adverse ouctome ICD codes](): codes/opioid-adverse-outcome-codes.csv
 
-## Project workflow:
+## 📝 Project workflow:
 1. **Cohort selection:** Create the surgical cohort
 2. **Feature extraction:** Define and extract all clinical features for the cohort patients and create the project data set
 3. **Dataset analysis:** Analyze and create a data set for diabetes population 
@@ -23,14 +23,14 @@ In this study, we propose a novel predictive model that determines the most opti
 6. **Optimal opioid evaluation:** Evaluate all the discharge opioid choices to find the optimal one
 7. **Optimal opioid analysis:** Analyze the results and generate plots.
 
-## Getting started
+## 🚀 Getting started
 
 All the source codes are available in `src` folder. It includes R files and two sub-folders for SQL and Python codes.
 
 - The workflow stages 1, 2, 3, and 7 have been developed by R (located `src`)
 - The workflow stages 4, 5, and 6 have been developed by Python (located in `src > py`)
 
-### Requirements
+### 🛠 Requirements
 To clone and run this project, you will need:
 
 R packages:
@@ -88,10 +88,10 @@ Before running this stage,  you may want to move the previous prediction output 
 ### 7. Optimal opioid analysis:
 After running Stage 6, the model prediction outputs are generated in for expanded test in the `outputs/csv/` directory. To analyze and plot the optimal discharge opioids, run all the script in `analyzeOptimalOpioid.R` 
 
-## License
+## 🔖 License
 HCF-Transformer is licensed under Apache License 2.0.
 
-## Support
+## 💡 Support
 Please contact Dr. Naderalvojoud at behzad@stanford.edu
 
 
